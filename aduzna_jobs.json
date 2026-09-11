@@ -1,0 +1,1180 @@
+{
+    "mean": 43700,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "created": "2024-09-20T14:00:27Z",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/4870502894?utm_medium=api&utm_source=22a75935",
+            "title": "Junior Business Developer - H/F",
+            "location": {
+                "display_name": "La Défense, Courbevoie",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Courbevoie",
+                    "La Défense"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 2.25651,
+            "salary_is_predicted": "0",
+            "id": "4870502894",
+            "contract_time": "full_time",
+            "description": "Vous avez une affinité avec les matières premières et la finance? Vous aspirez à avoir un impact direct dans l'une des entreprises leaders des marchés environnementaux ? Vous souhaitez commencer votre carrière dans un environnement dynamique et en constante évolution ? Postulez dès maintenant et rejoignez notre équipe au sein de nos bureaux à Paris ! À propos d'OTC Flow OTC Flow est un courtier spécialisé dans les marchés européens et locaux de l'énergie renouvelable. Notre mission est de fourn…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg3MDUwMjg5NCIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.CocLn-PZbDW4429mqRl4M9OfARrCr9YZQHL1tobMGSI",
+            "company": {
+                "display_name": "OTC Flow",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "latitude": 48.89683,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/details/5848446295?utm_medium=api&utm_source=22a75935",
+            "title": "Junior Fullstack Developer Hu002FF (Alternanceu002FStage)",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "created": "2026-08-19T17:43:01Z",
+            "id": "5848446295",
+            "salary_is_predicted": "0",
+            "longitude": 3.06302,
+            "location": {
+                "display_name": "La-Madeleine, Lille",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Hauts-De-France",
+                    "Nord",
+                    "Lille",
+                    "La-Madeleine"
+                ]
+            },
+            "description": "Feedier is looking for an ambitious Tech to join us and scale our engineering & executive team! We’re looking for someone with strong technical convictions who wants to be part of our story, learn a TON and help us scale our product and company to the next level! If you like scaling web applications, solving technical challenges, product innovation and are looking to develop your technical skills. This is for you. This is the perfect job for you if you would like to explore SCALING a successful…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 50.63718,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0ODQ0NjI5NSIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.4l03OdpIEUSzHt4CIi4UyPD_Cw-TIwoVKwkCcwIPddM",
+            "company": {
+                "display_name": "Feedier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "latitude": 48.863839,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODMwNTg0OTIxIn0.9xLXfBBWUJZfW0CzeVcv3MYO_p9yzJ9zlb1f9vC30xg",
+            "description": "Since 2012 Odaseva has helped global enterprises secure and manage their most valuable asset: data. The Odaseva EnterpriseData Platform secures and manages Salesforce data, ensuring data resilience, regulatory compliance, and unlocking the value of data. It’s built to solve the complex challenges of large-scale global enterprises. We’re a fast-growing scale-up with offices in San Francisco, Paris, Sydney, London, Kuala Lumpur, Singapore, and more. We serve a global customer base including Fortu…",
+            "id": "5830584921",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 42000,
+            "title": "Front-end Developer Junior",
+            "created": "2026-08-06T17:03:59Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Odaseva",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "longitude": 2.344631,
+            "salary_max": 50000,
+            "redirect_url": "https://www.adzuna.fr/details/5830584921?utm_medium=api&utm_source=22a75935"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ebury"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODc3Mjk1NTU2In0.HDb9T0KhVDlSX-3XQruK69CI4QzfWhiFJQmuRz_f6tg",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 45.72035,
+            "description": "Ebury helps ambitious businesses unlock global growth, and we take the same approach with our people. We encourage innovation and movement, collaboration and problem-solving, and foster an environment where everyone can feel they belong, are valued, supported and empowered to succeed. If you’re a collaborator who wants to help transform how businesses operate globally, get in touch - we’d love to discuss how Ebury can accelerate your career so you can shape the future. Junior FX Business Develo…",
+            "location": {
+                "area": [
+                    "France",
+                    "Auvergne-Rhône-Alpes",
+                    "Rhône",
+                    "Lyon"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Lyon, Rhône"
+            },
+            "id": "5877295556",
+            "salary_is_predicted": "0",
+            "longitude": 5.08666,
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-09-09T18:08:14Z",
+            "title": "Junior FX Business Developer",
+            "redirect_url": "https://www.adzuna.fr/details/5877295556?utm_medium=api&utm_source=22a75935"
+        },
+        {
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-08-25T17:26:27Z",
+            "title": "Business Developer Junior Fu002FH",
+            "salary_min": 38000,
+            "location": {
+                "display_name": "10ème Arrondissement, Paris",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "10ème Arrondissement"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "id": "5855471830",
+            "description": "À propos d’Extracadabra Nous révolutionnons le recrutement dans les secteurs en tension de la restauration, l’hôtellerie, l’événementiel et du retail. Notre mission ? Connecter nos établissements avec les talents les plus qualifiés, de manière fluide et instantanée.  Ton objectif principal Suite à notre levée de fonds en avril 2025, nous ouvrons un nouveau chapitre de notre croissance : l’expansion géographique de notre activité. Dans ce cadre, nous recherchons un(e) Business Developer, basé(e)…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NTQ3MTgzMCIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.q_rPbBIOo17BJ7Pab9E5UBSzmboXS1AZLe9QTGVoZII",
+            "latitude": 48.87174,
+            "redirect_url": "https://www.adzuna.fr/details/5855471830?utm_medium=api&utm_source=22a75935",
+            "salary_max": 50000,
+            "longitude": 2.35713,
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "Extracadabra",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/details/5696034017?utm_medium=api&utm_source=22a75935",
+            "salary_max": 35000,
+            "longitude": 2.25651,
+            "contract_time": "full_time",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Freeland"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "created": "2026-04-10T22:42:37Z",
+            "title": "Business Developer Junior F/H",
+            "salary_min": 33000,
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Courbevoie",
+                    "La Défense"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "La Défense, Courbevoie"
+            },
+            "salary_is_predicted": "0",
+            "id": "5696034017",
+            "description": "L'entreprise Depuis 2001, CONSULTIME accompagne les grands comptes dans la recherche et la mise à disposition de consultants indépendants IT. Présente à Paris, Lyon, Bordeaux, Clermont-Ferrand et Nantes, l’entreprise s’appuie aujourd’hui sur un réseau de plus de 575 consultants en mission. CONSULTIME fait partie du groupe Freeland, acteur majeur de l’accompagnement des freelances et des entreprises, avec 400 M€ de chiffre d’affaires. Dans le cadre de notre croissance, nous recrutons un(e) Busin…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1Njk2MDM0MDE3In0.jPTAxTl7JDv-xhxaBSoigwTSDcc7rXRgDGdPCaF4Fs0",
+            "latitude": 48.89683
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "display_name": "Paris, Ile-de-France"
+            },
+            "salary_is_predicted": "0",
+            "id": "5329634248",
+            "longitude": 2.344631,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "created": "2025-07-31T12:56:13Z",
+            "redirect_url": "https://www.adzuna.fr/details/5329634248?utm_medium=api&utm_source=22a75935",
+            "title": "Business Developer junior (H/F)",
+            "company": {
+                "display_name": "Ouidou",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1MzI5NjM0MjQ4In0.i_vhdZlr8_pxuTuwOUAdJFeHDCIGZFni5G25TXHzugc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 48.863839,
+            "description": "Êtes-vous prêt pour un nouveau défi ? Rattaché.e à la Direction Business de l’agence IDF (Paris XVème), vous participez au développement de nos actions commerciales, à savoir : Gestion et suivi de la vente de produits logiciels (Atlassian / GitLab / Sonarqube) Gestion de la relation éditeur (demandes, deals, suivi des actions) Gestion client (demandes, suivis des affaires en cours - niveau 1) Gestion de la facturation / paiement en support de l’équipe DAF Gestion des renouvellements produits lo…",
+            "contract_time": "full_time"
+        },
+        {
+            "salary_is_predicted": "0",
+            "id": "5864419672",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Hauts-De-France",
+                    "Nord",
+                    "Lille",
+                    "Lille-Nord"
+                ],
+                "display_name": "Lille-Nord, Lille"
+            },
+            "salary_min": 28000,
+            "title": "Business Developer Junior F/H",
+            "created": "2026-09-01T12:49:11Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "latitude": 50.66138,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODY0NDE5NjcyIn0.RC6UnBWfPLapssvOhYvYBcMmk9KrcXQo7wBet1YsUM4",
+            "contract_type": "permanent",
+            "description": "Au sein de l’équipe d’un de nos Manager, vous interviendrez sur un périmètre à forte valeur ajoutée mêlant développement commercial et recrutement de talents IT. Développement commercial Prospecter et ouvrir de nouveaux comptes clients ; Développer un portefeuille de grands comptes et d’acteurs économiques stratégiques ; Identifier les besoins clients et détecter de nouvelles opportunités business ; Mener une prospection multicanale efficace (CRM,LinkedIn, téléphone, réseau, emailing…) Construi…",
+            "longitude": 3.0502,
+            "salary_max": 32000,
+            "redirect_url": "https://www.adzuna.fr/details/5864419672?utm_medium=api&utm_source=22a75935",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "ANDEMA",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "description": "Présentation de la société Choisir l'alternance au sein du Groupe Ecofac, c'est choisir une école qui place l'employabilité au coeur de sa mission. Depuis plus de 35 ans, Ecofac, école de commerce et de management implantée au Mans, à Rennes, Laval, Nantes, Angers et Caen, accompagne chaque apprenant dans l'apprentissage d'un métier, le développement de compétences concrètes et l'obtention d'un titre ou d'un diplôme reconnu : CAP, Bac Pro, BTS, BACHELOR et MASTERE. Des formations en alternance …",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "Ecofac",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2OTE5MzkzMiIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.-42vFlElo7gndCc8X07oUW2eOqjjA9XfDLvbGzqccBs",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 48.45385,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "created": "2026-09-03T17:52:20Z",
+            "redirect_url": "https://www.adzuna.fr/details/5869193932?utm_medium=api&utm_source=22a75935",
+            "title": "Alternant - Business Developer Junior F/H",
+            "location": {
+                "display_name": "Dinan-Est, Dinan",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Bretagne",
+                    "Côtes-d'Armor",
+                    "Dinan",
+                    "Dinan-Est"
+                ]
+            },
+            "id": "5869193932",
+            "salary_is_predicted": "0",
+            "longitude": -2.04599
+        },
+        {
+            "description": "LA DÉFENSE - CDI DEVENIR BUSINESS DEVELOPER CHEZ MARGO MARGO est une société de consulting en Data, IA et Ingénierie logicielle créée en 2005. Présente en France et à l’international, nous réunissons les meilleurs experts pour répondre aux missions techniques les plus intéressantes auprès des clients les plus exigeants. Aujourd’hui, MARGO ambitionne de devenir un acteur majeur de l’IA, à consolider sa présence chez ses clients et à étendre son positionnement haut de gamme auprès de nouveaux act…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 48.863839,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI0MTY5NjE3MiIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.vAOkT09gLV0hPIoOhVsVbP3a94OWyjGPO_5eJ97hnVo",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Margo"
+            },
+            "title": "Business Developer Junior - CDI - H/F",
+            "redirect_url": "https://www.adzuna.fr/details/5241696172?utm_medium=api&utm_source=22a75935",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-06-09T22:50:52Z",
+            "id": "5241696172",
+            "salary_is_predicted": "0",
+            "longitude": 2.344631,
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "latitude": 48.87174,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Work With Island"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1ODM4MDMxMCIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.I89bZr5FSINwYq4w9VHxzKh4cPh4miWRvM2_LnKdh0Y",
+            "description": "As a member of the Direct Sales France team , you will work in close collaboration with Laurine, our Sales Manager Direct France, to boost our commercial engine . Your goal: ensure high-quality follow-up for a rapidly expanding account portfolio while actively hunting for new partner accounts to drive our business growth. Your mission Building and managing your own pipeline : You will support the sales team by generating new business opportunities (outbound) and gradually taking over the full s…",
+            "longitude": 2.35713,
+            "salary_is_predicted": "0",
+            "id": "5858380310",
+            "location": {
+                "display_name": "10ème Arrondissement, Paris",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "10ème Arrondissement"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5858380310?utm_medium=api&utm_source=22a75935",
+            "title": "Business Developer Junior (M/F/X) - Apprenticeship",
+            "created": "2026-08-27T17:29:52Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            }
+        },
+        {
+            "created": "2025-10-13T11:33:17Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "title": "Alternance - Inside Sales / Business Developer Junior H/F",
+            "redirect_url": "https://www.adzuna.fr/details/5445224689?utm_medium=api&utm_source=22a75935",
+            "location": {
+                "area": [
+                    "France"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "France"
+            },
+            "id": "5445224689",
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "description": "mc2i is an independent consulting firm that supports its key clients with their digital transformation projects. For over 36 years, we've been active in diverse sectors and areas, including Human Resources, Energy & Utilities, Transport, Banking, Finance & Insurance, Retail & Luxury, Media & Telecoms, Marketing & Customer Experience, Public Services, Cybersecurity, Data/AI, Infra, UX/UI Design, and Management & Organization. We're recognized for our entrepreneurial approach, our innovative spir…",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0NTIyNDY4OSIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.IqccKi2KqHjl1SgP0p8vx8tfOqL43tA6gBUZejxy4TM",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "mc2i"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Business Developer Junior – Consulting & Solutions digitales F/H",
+            "created": "2026-08-15T12:48:15Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "salary_is_predicted": "0",
+            "id": "5843047182",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Seine-Saint-Denis",
+                    "Saint-Denis"
+                ],
+                "display_name": "Saint-Denis, Seine-Saint-Denis"
+            },
+            "salary_min": 36000,
+            "contract_type": "permanent",
+            "description": "Dans le cadre de notre développement, nous recherchons un(e) Business Developer débutant (e) pour renforcer notre équipe commerciale. Votre mission Aux côtés de l’équipe commerciale et de la Direction, vous participerez au développement de nouveaux clients et à la génération d’opportunités commerciales. Votre priorité sera de créer les premiers contacts avec de nouvelles entreprises, générer des rendez-vous qualifiés et faire émerger de nouvelles opportunités commerciales. Vous commencerez prin…",
+            "latitude": 48.93607,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MzA0NzE4MiIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.vW_f9ptAm8FIeG7VwnN4i0i2QuHMDx50nI-IODiWfeM",
+            "redirect_url": "https://www.adzuna.fr/details/5843047182?utm_medium=api&utm_source=22a75935",
+            "longitude": 2.36488,
+            "salary_max": 38000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "CYLLENE FANTAISIE",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "company": {
+                "display_name": "mc2i",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODc4NzExNjkzIn0.Np2N6nxdREAN_MFsXZGIh7L6XH27qd-iZ2cF-jB1ptU",
+            "latitude": 48.8814,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Rattaché(e) à un pôle opérationnel chargé du développement de nos grands comptes, avec un lien transversal avec la direction du développement, vous aurez en charge le développement de nos clients Grands Comptes. Vous travaillerez au sein d'un de nos pôles : Énergie & Utilities Retail & Luxe Transport et Industrie, Secteur Public, Médias et Santé Banque, Finance et Assurance Ressources Humaines Data, IA, Cybersécurité, UX Au quotidien, vous prendrez en charge plusieurs missions : Participation a…",
+            "contract_type": "contract",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "8ème Arrondissement"
+                ],
+                "display_name": "8ème Arrondissement, Paris"
+            },
+            "longitude": 2.3365,
+            "salary_is_predicted": "0",
+            "id": "5878711693",
+            "created": "2026-09-10T18:11:10Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5878711693?utm_medium=api&utm_source=22a75935",
+            "title": "Alternance - Inside Sales / Business Developer Junior H/F"
+        },
+        {
+            "salary_min": 45000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France"
+                ],
+                "display_name": "Ile-de-France, France"
+            },
+            "id": "5874436585",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "created": "2026-09-07T21:46:42Z",
+            "title": "Développeur C# Angular IA Junior (H/F) (IT)",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODc0NDM2NTg1In0.fXGYARqlJvqrHhjGINZ02E5a_2Yw4Bs_DbE35esl5rY",
+            "latitude": 48.811332,
+            "description": "Contexte : L'équipe de développement de proximité, composé d'une dizaine de personnes, propose au métiers des solutions légères et intégrées à leurs outils du quotidiens (Outlook, Excel ). L?IA est au c?ur du dispositif, autant pour aider les développeurs (IA for Dev) que pour les usages métiers. Intégrer un consultant junior pour concevoir, développer et industrialiser des applications C# en intégrant systématiquement l?IA dans le cycle de vie du logiciel : conception, développement, tests, do…",
+            "contract_type": "permanent",
+            "salary_max": 45000,
+            "longitude": 2.351634,
+            "redirect_url": "https://www.adzuna.fr/details/5874436585?utm_medium=api&utm_source=22a75935",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "STORM GROUP"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_max": 2023,
+            "longitude": 2.3365,
+            "redirect_url": "https://www.adzuna.fr/details/5875745874?utm_medium=api&utm_source=22a75935",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Wallix"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "salary_min": 2023,
+            "location": {
+                "display_name": "8ème Arrondissement, Paris",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "8ème Arrondissement"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "id": "5875745874",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "created": "2026-09-08T18:11:55Z",
+            "title": "Senior Backend Developer - H/F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg3NTc0NTg3NCIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.9s_RHAvLv9raP8uVc67wX7hZOSzn5bYp-shyiYej3i8",
+            "latitude": 48.8814,
+            "description": "As a Senior Developer at WALLIX in the Workforce Team, you will design, develop, and maintain SaaS applications. Responsibilities include front-end and back-end programming, architectural decisions, coding, team collaboration, and managing the full development cycle from design to deployment. You'll also participate in code reviews, architecture discussions, and technical documentation. Qualifications · Minimum of 5 years' experience in software development, with emphasis on cybersecurity or en…"
+        },
+        {
+            "contract_time": "full_time",
+            "description": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical systems to allied forces. Our work is guided by clear values: building technologies with real-world impact, pursuing excellence in everything we do, setting ambitious goals, and taking on the hardest technical challenges. We operate in a dema…",
+            "latitude": 48.863839,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Harmattan AI"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1NjczNTA2ODMwIn0.zWdauRaVzcK9RwHgzEuNGJpZU2gt2F4DezC_Od05RlE",
+            "title": "Software Engineer - Drone Simulator",
+            "redirect_url": "https://www.adzuna.fr/details/5673506830?utm_medium=api&utm_source=22a75935",
+            "created": "2026-03-20T21:27:29Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "longitude": 2.344631,
+            "salary_is_predicted": "0",
+            "id": "5673506830",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France"
+            }
+        },
+        {
+            "company": {
+                "display_name": "Comeen",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1NjQ0MjQyNTQ1In0.ySw0eqhYm6oeHLwdcIub3kVUKHNalsVxb6H2PpW0ekI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 48.863839,
+            "description": "We're Comeen, our mission is to create a seamless experience between people and workplaces.  We help 300 companies worldwide to implement today’s workplace environment with Communication and Workplace Management tools. We have worldwide customers from fast-growing startups to large enterprises, such as: Veolia, Sanofi or Imerys. Our SaaS platform is integrated with Google Workspace, Microsoft Teams, Slack, and provides features such as: Corporate digital signage, In-office days planning, Desk b…",
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "id": "5644242545",
+            "longitude": 2.344631,
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-02-24T23:28:04Z",
+            "redirect_url": "https://www.adzuna.fr/details/5644242545?utm_medium=api&utm_source=22a75935",
+            "title": "Senior Ruby on Rails developer"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODAxMzY2NDk0In0.MmUr9uOIs_oamTjDnDqg0m88Zd9N83b-8nsYXP5vnLQ",
+            "company": {
+                "display_name": "PETROFF AVOCATS",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 48.86023,
+            "description": "We're looking for a Senior Software Engineer to join our engineering team and work on a large-scale production application. This is an excellent opportunity for someone who enjoys solving complex technical challenges, working on modern technologies, and taking ownership of products used by real users. You'll be joining an existing engineering team to help accelerate the development of one of our flagship products. The application is already in production and includes: • Large Laravel backend • …",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "1er Arrondissement"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "1er Arrondissement, Paris"
+            },
+            "salary_is_predicted": "0",
+            "id": "5801366494",
+            "longitude": 2.34107,
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-07-15T18:01:17Z",
+            "redirect_url": "https://www.adzuna.fr/details/5801366494?utm_medium=api&utm_source=22a75935",
+            "title": "Senior Software Engineer (Laravel | Next.js | PostgreSQL)"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/details/5752347087?utm_medium=api&utm_source=22a75935",
+            "title": "FullStack Software Engineer (Node.js / Vue.js)",
+            "created": "2026-06-04T23:06:02Z",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5752347087",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hauts-de-Seine, Ile-de-France"
+            },
+            "contract_time": "full_time",
+            "description": "Ready to be part of the Legal Tech revolution? Vision: As a leading software-as-a-service (SaaS) provider, Dilitrust is a global company dedicated to offering an integrated suite of legal and governance products. Our vision is to digitize legal departments worldwide. With an annual growth rate of over 40% since 2020, our ambition is to become the world's leading Legal Tech company, aiming for a valuation exceeding $1 billion by 2026. Our Impact: From generating General Meeting reports to levera…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1NzUyMzQ3MDg3In0.AHHtTXAzG8miUYMRCd_268pk_GWk5fJGJ0jWU_tAy8c",
+            "company": {
+                "display_name": "DiliTrust",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "contract_type": "permanent",
+            "description": "Contexte Dans le cadre de la constitution d'une équipe dédiée au développement d'un nouveau composant Front-End Angular, notre client recherche deux développeurs Angular Juniors. L'équipe sera composée de : 1 Développeur Angular Senior / Lead 2 Développeurs Angular Juniors Les deux profils juniors participeront au développement des fonctionnalités Front-End, à l'intégration avec les services existants et à la maintenance évolutive. Au moins un des deux profils juniors est idéalement attendu ave…",
+            "latitude": 45.4489,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "OCTOGONE",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODc2MDgyNDg3In0.YdK3xXmPXlEnrutRaq62yR3eBq0gs_8cZTRjBTx0-i8",
+            "redirect_url": "https://www.adzuna.fr/details/5876082487?utm_medium=api&utm_source=22a75935",
+            "title": "Développeurs Front-End Angular Juniors (IT)",
+            "created": "2026-09-08T21:54:46Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "longitude": 5.34473,
+            "salary_is_predicted": "0",
+            "id": "5876082487",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Auvergne-Rhône-Alpes",
+                    "Isère"
+                ],
+                "display_name": "Isère, Auvergne-Rhône-Alpes"
+            }
+        },
+        {
+            "contract_time": "full_time",
+            "description": "Ready to be part of the Legal Tech revolution? Vision: As a leading software-as-a-service (SaaS) provider, Dilitrust is a global company dedicated to offering an integrated suite of legal and governance products. Our vision is to digitize legal departments worldwide. With an annual growth rate of over 40% since 2020, our ambition is to become the world's leading Legal Tech company, aiming for a valuation exceeding $1 billion by 2026. Our Impact: From generating General Meeting reports to levera…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "DiliTrust",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MjI4NTc0MSIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.07Rujb6Rmh_acFPMYKYxWHBJ24Ud3H5wSt3NTtqBB2c",
+            "redirect_url": "https://www.adzuna.fr/details/5752285741?utm_medium=api&utm_source=22a75935",
+            "title": "Senior FullStack Software Engineer (Node.js / Vue.js) - Full remote",
+            "created": "2026-06-04T22:57:47Z",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5752285741",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Hauts-de-Seine, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine"
+                ]
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "id": "5776671734",
+            "longitude": 2.344631,
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5776671734?utm_medium=api&utm_source=22a75935",
+            "title": "Software Engineer - Visualization",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-06-25T22:50:34Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 48.863839,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Harmattan AI"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NjY3MTczNCIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.NJ2NeiSluogMBj0h-9vRLFewaF2US8JsOzi_8BWFc7g",
+            "description": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical systems to allied forces. Our work is guided by clear values: building technologies with real-world impact, pursuing excellence in everything we do, setting ambitious goals, and taking on the hardest technical challenges. We operate in a dema…",
+            "contract_time": "full_time"
+        },
+        {
+            "title": "Consultant CRM Dynamics 365 H/F",
+            "created": "2026-08-28T05:59:47Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "salary_is_predicted": "0",
+            "id": "5859243838",
+            "location": {
+                "display_name": "Le Plessis-Robinson, Antony",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Antony",
+                    "Le Plessis-Robinson"
+                ]
+            },
+            "salary_min": 37000,
+            "description": "Nous accompagnons un client sur le recrutement en interne d'un.e Consultant.e CRM Dynamics 365 au Plessis-Robinson; 2 jours de télétravail par semaine. Vous intégrerez la practice Microsoft CRM Dynamics 365 forte de plus de 10 ans d'existence. Vous aurez ainsi l'opportunité de piloter votre périmètre avec une large autonomie, dans l'atteinte des objectifs fixés et avec le soutien de notre responsable de practice, que vous seconderez. Responsabilités : - Pilotage de la relation client (recueil d…",
+            "latitude": 48.78101,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODU5MjQzODM4In0.EMqik07MlszPsiCrbj53cCxYQPpZaQQnXYxiHlmXkr0",
+            "redirect_url": "https://www.adzuna.fr/details/5859243838?utm_medium=api&utm_source=22a75935",
+            "longitude": 2.26326,
+            "salary_max": 45000,
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Innova Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODc1NDg3Mzc2In0.7uGa8T9ozY_s2-u5eq7kV8ERlC-XL7AW_qUXEqpFpss",
+            "company": {
+                "display_name": "SOFTEAM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "latitude": 48.863839,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "permanent",
+            "description": "Data Analyst – Power BI / Python (H/F) Localisation : ile de France Type de contrat : CDI À propos du poste Dans le cadre du développement de notre activité et du renforcement de notre équipe Data, nous recherchons un(e) Data Analyst pour participer à la collecte, l’analyse et la valorisation de nos données. Vous travaillerez en collaboration avec les équipes métiers, IT et Data afin de transformer les données en indicateurs fiables et facilement exploitables , et de contribuer à l’amélioration…",
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 2.344631,
+            "salary_is_predicted": "0",
+            "id": "5875487376",
+            "created": "2026-09-08T12:49:58Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5875487376?utm_medium=api&utm_source=22a75935",
+            "title": "data analyste F/H"
+        },
+        {
+            "latitude": 47.21684,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "RHSELECT"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1ODE1NTc1NCIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.NsQYsf_HzusZ6V3Z_C2-0qENAI7hOoJ7xEevGFBzHAg",
+            "description": "Dans le cadre d’un projet dans le secteur de l’énergie, nous recherchons plusieurs profils Data spécialisés Teradata pour intervenir au sein d’un environnement Data à forte volumétrie. - Participer à la conception technique sur des problématiques Data / Big Data - Concevoir et optimiser les traitements Teradata - Réfléchir à la structuration et à la mise en place des flux de données - Analyser et améliorer les performances des requêtes et traitements - Contribuer aux flux de publication de donn…",
+            "contract_type": "contract",
+            "longitude": -1.55674,
+            "salary_is_predicted": "0",
+            "id": "5858155754",
+            "location": {
+                "display_name": "Nantes, Loire-Atlantique",
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Loire-Atlantique",
+                    "Nantes"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5858155754?utm_medium=api&utm_source=22a75935",
+            "title": "Expert / Développeur Data Teradata – Senior & Junior F/H",
+            "created": "2026-08-27T12:43:59Z",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "location": {
+                "display_name": "France",
+                "area": [
+                    "France"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "id": "5834770966",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "created": "2026-08-09T17:31:20Z",
+            "title": "Senior Software Development Engineer - Security Automation, AWS Security OpRes",
+            "redirect_url": "https://www.adzuna.fr/details/5834770966?utm_medium=api&utm_source=22a75935",
+            "company": {
+                "display_name": "Amazon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNDc3MDk2NiIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.JnPGDF9nsXKeIejH4vIGqPIpo7X8T6EeDC_BzCrKY_c",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Amazon Security customers demand the highest quality and reliability for their services. We continuously strive to simplify and scale security operations while resolving complex issues. We are looking for highly motivated Software Developers to help build and scale security incident response platforms and tooling across the largest cloud provider in the world. Amazon Security OpRes is a team of Security Engineers and Software Development Engineers dedicated to enhancing security incident respon…",
+            "contract_time": "full_time"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Innova Solutions"
+            },
+            "longitude": 2.26326,
+            "salary_max": 45000,
+            "redirect_url": "https://www.adzuna.fr/details/5861006835?utm_medium=api&utm_source=22a75935",
+            "latitude": 48.78101,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODYxMDA2ODM1In0.4-n6nEOCF3IeL7WPxtrWNUIuFRlz_XvErXkgZUGYoJU",
+            "description": "Nous accompagnons un client sur le recrutement en interne d'un.e Consultant.e CRM Dynamics 365 au Plessis-Robinson; 2 jours de télétravail par semaine. Vous intégrerez la practice Microsoft CRM Dynamics 365 forte de plus de 10 ans d'existence. Vous aurez ainsi l’opportunité de piloter votre périmètre avec une large autonomie, dans l’atteinte des objectifs fixés et avec le soutien de notre responsable de practice, que vous seconderez. Responsabilités : - Pilotage de la relation client (recueil d…",
+            "contract_type": "permanent",
+            "salary_is_predicted": "0",
+            "id": "5861006835",
+            "salary_min": 37000,
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Antony",
+                    "Le Plessis-Robinson"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Le Plessis-Robinson, Antony"
+            },
+            "title": "Consultant CRM Dynamics 365 F/H",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-08-29T12:44:36Z"
+        },
+        {
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "GitGuardian"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5873206001?utm_medium=api&utm_source=22a75935",
+            "longitude": 2.34107,
+            "salary_max": 12,
+            "description": "About GitGuardian GitGuardian is a global cybersecurity scale-up. The company is based in Paris, New-York City, Boston. Among our early investors who saw our market value proposition, are the co-founder of GitHub, Scott Chacon, along with Solomon Hykes, Docker's co-founder. American and European top-tier VC firms have also invested in GitGuardian who raised its series C early 2026. GitGuardian helps enterprises close credential-based breach paths. It finds secrets wherever they live, prioritize…",
+            "latitude": 48.86023,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODczMjA2MDAxIn0.ErILRPmxEklXuWoIod0frpW1BbBS6KH5y-aE4Db7F8Y",
+            "title": "Senior Software Engineer (backend, Django) - NHI team",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2026-09-06T17:55:54Z",
+            "id": "5873206001",
+            "salary_is_predicted": "0",
+            "salary_min": 12,
+            "location": {
+                "display_name": "1er Arrondissement, Paris",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "1er Arrondissement"
+                ]
+            }
+        },
+        {
+            "description": "REJOINDRE MARGO MARGO est une société de consulting en Data, IA et Ingénierie logicielle créée en 2005. Présente en France et à l’international, nous réunissons les meilleurs experts pour répondre aux missions techniques les plus intéressantes auprès des clients les plus exigeants. Aujourd’hui, MARGO ambitionne de devenir un acteur majeur de l’IA, à consolider sa présence chez ses clients et à étendre son positionnement haut de gamme auprès de nouveaux acteurs du marché. VOS MISSIONS Nous reche…",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 48.863839,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1NTU4NDU1ODkxIn0.swErKXZTHqn_ks53VY6M2yMHIaEGBngDKrl8WKbUnzI",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Margo"
+            },
+            "title": "Business Developer Senior - Responsable de compte",
+            "redirect_url": "https://www.adzuna.fr/details/5558455891?utm_medium=api&utm_source=22a75935",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-28T20:45:31Z",
+            "id": "5558455891",
+            "salary_is_predicted": "0",
+            "longitude": 2.344631,
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/details/5818414976?utm_medium=api&utm_source=22a75935",
+            "title": "Senior Application and Software Developer (F/H)",
+            "created": "2026-07-28T17:13:45Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 7.74375,
+            "salary_is_predicted": "0",
+            "id": "5818414976",
+            "location": {
+                "display_name": "Strasbourg, Strasbourg-Ville",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Grand-Est",
+                    "Bas-Rhin",
+                    "Strasbourg-Ville",
+                    "Strasbourg"
+                ]
+            },
+            "contract_time": "full_time",
+            "description": "Vous rejoindrez notre activité Technology , qui accompagne les grandes organisations dans leurs projets de transformation digitale en intervenant à l’intersection des enjeux business et technologiques . Nos équipes conçoivent, développent et déploient des solutions innovantes permettant à nos clients d’accélérer leur transformation, d’améliorer leur performance opérationnelle et de tirer parti des dernières technologies. Dans ce contexte, nous recherchons un(e) Junior Application and Software D…",
+            "latitude": 48.58293,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Deloitte"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxODQxNDk3NiIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.t-J6BIV8-pxWl6FHnHIgHgCEHcH2cb4eqCs-cxMRl5E"
+        },
+        {
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ekimetrics"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5807586664?utm_medium=api&utm_source=22a75935",
+            "longitude": 2.344631,
+            "salary_max": 59000,
+            "description": "Les entreprises qui performent décident mieux. Depuis 2006, Ekimetrics aide les organisations à transformer leurs décisions en avantage concurrentiel durable grâce à des solutions d'IA. Notre double ambition est d'allier performance et durabilité, pour construire un leadership pérenne. Nos solutions sont une combinaison unique de People et de technologie. Notre plateforme Eki.Decisions complète l'expertise de nos équipes en marketing, efficacité commerciale et data science, pour connecter l'IA …",
+            "latitude": 48.863839,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODA3NTg2NjY0In0.deZXZJ6xj1sOt2Ozb5g1HY6dy2e9PRh-f-2dSM7VmWc",
+            "title": "Senior AI & ML engineer",
+            "created": "2026-07-20T02:50:08Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "id": "5807586664",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France"
+            },
+            "salary_min": 59000
+        },
+        {
+            "title": "Business Developer Engineering Services Aerospace & Defence F/H",
+            "redirect_url": "https://www.adzuna.fr/details/5767233578?utm_medium=api&utm_source=22a75935",
+            "created": "2026-06-17T23:58:25Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "id": "5767233578",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France"
+                ],
+                "display_name": "France"
+            },
+            "contract_time": "full_time",
+            "description": "Imaginez, transformez et impactez le monde positivement : venez vivre au cœur du changement en tant que Business Developer Engineering Services Aerospace & Defence F/H à Toulouse. Vos connaissances disent souvent que vous êtes un vendeur de haut vol ? Votre entourage est étonné par votre capacité à être au fait des dernières innovations ? Vos collègues saluent vos dispositions naturelles à répondre avec ténacité et créativité à des besoins de ré-invention de l’industrie ? Vous portez une attent…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Accenture"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1NzY3MjMzNTc4In0.XOweZV3BAKfDOUtnqRsvjUZbftARUy32a6Wqv_30y6c"
+        },
+        {
+            "title": "Forward Deployed Engineer (Junior to Confirmed)",
+            "created": "2026-09-05T18:00:22Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "id": "5872131832",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "3ème Arrondissement, Paris",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "3ème Arrondissement"
+                ]
+            },
+            "salary_min": 52000,
+            "description": "Forward Deployed Engineer (Junior) Full-time · Paris Role title: Forward Deployed Engineer (FDE) Also known as Forward Deployed Software Engineer · Deployment Engineer · the person who makes software actually work in a factory Company: The FDE Company Location: Paris-based, deployed at industrial client sites across France and Europe Contract: CDI Level: Junior (0–3 years of experience). We hire for trajectory, not track record. Salary range: €52–62K base  up to €8K deployment bonus tied to val…",
+            "latitude": 48.86371,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODcyMTMxODMyIn0.6Drrt_OS4pZGervjXSDDMk129BatBv76gmXRxXUNZRw",
+            "redirect_url": "https://www.adzuna.fr/details/5872131832?utm_medium=api&utm_source=22a75935",
+            "longitude": 2.36109,
+            "salary_max": 68000,
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "OSS Ventures"
+            }
+        },
+        {
+            "id": "5876082479",
+            "salary_is_predicted": "0",
+            "longitude": 5.34473,
+            "location": {
+                "area": [
+                    "France",
+                    "Auvergne-Rhône-Alpes",
+                    "Isère"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Isère, Auvergne-Rhône-Alpes"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5876082479?utm_medium=api&utm_source=22a75935",
+            "title": "Développeur Front-End Angular Senior / Lead - Grenoble (IT)",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "created": "2026-09-08T21:54:46Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 45.4489,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg3NjA4MjQ3OSIsInMiOiJVTHF4WXRhdDhSR29XOERiOWJHRnpRIn0.DcoiVsqECYTiuqy5Kbf-hRonweqoSPEJKpNr6BHW3qg",
+            "company": {
+                "display_name": "OCTOGONE",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_type": "permanent",
+            "description": "Contexte Dans le cadre du développement d'un nouveau composant Front-End à fort enjeu technique, notre client constitue une équipe dédiée autour du framework Angular. Cette équipe sera composée de 3 développeurs : 1 profil Senior / Lead Angular 2 profils Angular Juniors Le besoin porte principalement sur la conception, le développement et la structuration du Front-End Angular, ainsi que sur son intégration avec un Back-End Java déjà existant. Le profil Senior / Lead jouera un rôle central dans …"
+        },
+        {
+            "title": "Senior Front-end Developer (Contract)",
+            "redirect_url": "https://www.adzuna.fr/details/5872144399?utm_medium=api&utm_source=22a75935",
+            "created": "2026-09-05T18:09:55Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "salary_is_predicted": "0",
+            "id": "5872144399",
+            "location": {
+                "area": [
+                    "France"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "France"
+            },
+            "contract_type": "contract",
+            "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Front-end Developer (Contract) based in France. As a Senior Front-end Developer, you will lead the development of high-quality, responsive, and performant web experiences within a collaborative, client-focused environment. You will translate technical and business requirements into intuitive digital solutions across desktop and mobile. The role combines hands-…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Jobgether",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODcyMTQ0Mzk5In0.2AOTiJ_ykbLafrGW_9NrjiaVs6gVNW0aKvouT-GWII4"
+        },
+        {
+            "description": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigate change, capture opportunity, and deliver transformational growth. WPP Media is WPP's AI-driven media operating unit, bringing together media, data, and partnerships to deliver creative personalisation at scale. Connected through WPP Open…",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUxxeFl0YXQ4UkdvVzhEYjliR0Z6USIsImkiOiI1ODQwMzk2NTE1In0.NQwycMxxe0TjCg_F04kriRdsXb_2EUCPvHJDv7uxhog",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "WPP Media"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 48.863839,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "created": "2026-08-13T17:28:17Z",
+            "redirect_url": "https://www.adzuna.fr/details/5840396515?utm_medium=api&utm_source=22a75935",
+            "title": "Data Strategy Director - CDI - F/H",
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            },
+            "id": "5840396515",
+            "salary_is_predicted": "0",
+            "longitude": 2.344631
+        }
+    ],
+    "count": 37
+}
