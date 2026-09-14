@@ -2,7 +2,7 @@
 Llama a Gemini para generar un resumen profesional adaptado a una oferta
 concreta, basado ÚNICAMENTE en tu CV real (para no inventar experiencia).
 """
-import os
+
 import time
 from google import genai
 from google.genai._gaos.lib.compat_errors import RateLimitError
@@ -12,7 +12,7 @@ load_dotenv()
 
 client = genai.Client()  # lee GEMINI_API_KEY del entorno automáticamente
 
-MODEL = "gemini-3.5-flash"
+MODEL = "gemini-3.1-flash-lite"
 MAX_REINTENTOS = 3
 
 
@@ -32,8 +32,21 @@ Descripción: {oferta.get('description', '')}
 Tarea: escribe un resumen profesional de 3-4 líneas, en español, para
 poner al principio del CV, adaptado específicamente a esta oferta —
 resalta las habilidades y experiencia del CV que más encajan con lo que
-pide la descripción. No repitas literalmente frases de la oferta, y no
-añadas nada que no esté respaldado por el CV base."""
+pide la descripción.
+
+Reglas de estilo (importante, esto es lo que más se suele fallar):
+- Escribe como lo escribiría la propia persona, no como una IA describiendo
+  a un candidato en tercera persona genérica.
+- PROHIBIDO usar frases hechas de relleno tipo: "sólida base técnica",
+  "destacada trayectoria", "entornos exigentes", "alta capacidad analítica",
+  "complementada con", "cuento con experiencia en". Si te sale una de estas
+  al escribir, bórrala y dilo de forma más directa y concreta.
+- Prefiere frases cortas y datos concretos (proyectos reales, tecnologías
+  exactas) antes que adjetivos vacíos.
+- No repitas literalmente frases de la oferta, y no añadas nada que no
+  esté respaldado por el CV base.
+- Varía la estructura de las frases — no encadenes todo con gerundios
+  ("incluyendo...", "complementada con...", "garantizando...")."""
 
     for intento in range(1, MAX_REINTENTOS + 1):
         try:
