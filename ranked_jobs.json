@@ -1,0 +1,168 @@
+[
+  {
+    "title": "Java Developer",
+    "company": "Worldhire",
+    "location": "España",
+    "description": "Location - Spain (Remote) Job Description For an existing project entering a new life cycle, we are looking for senior engineers with strong communication skills, looking for a challenging context in a complex client landscape & solution with complex business insights. Must Have Skill - Java (Expert) Dev - Backend - Skills Required Java 11 Microservice Architectue Spring boot REST communication Hibernate RDBMS(MariaDB) and NoSql(Mongo) DB Drools Rule Engine Reactive and functional programming K…",
+    "url": "https://www.adzuna.es/details/5119719363?utm_medium=api&utm_source=22a75935",
+    "remote": true,
+    "tags": [
+      "Trabajos en informática"
+    ],
+    "source": "Adzuna (ES)",
+    "_matched_skills": [
+      "java"
+    ],
+    "score": 54
+  },
+  {
+    "title": "Java developer",
+    "company": "Osclass",
+    "location": "España",
+    "description": "Provides Java Programming skills and experience in support of the full Software Development Life Cycle (SDLC) for FAA ATO IT software development projects Responsible for development and maintenance of existing Java based web service applications using Spring and Hibernate frameworks, and Oracle database systems Works with both FAA government personnel and other vendors in a software development team based upon the Agile methodology Provides well commented code and documentation describing the …",
+    "url": "https://www.adzuna.es/details/4800596476?utm_medium=api&utm_source=22a75935",
+    "remote": false,
+    "tags": [
+      "Trabajos en informática"
+    ],
+    "source": "Adzuna (ES)",
+    "_matched_skills": [
+      "java"
+    ],
+    "score": 39
+  },
+  {
+    "title": "Software Engineer (all genders)",
+    "company": "NFON",
+    "location": "Munich",
+    "description": "Your new role With a passion for Conversational AI, you develop a scalable multi-tenant platform that opens access to cutting-edge LLM technologies and brings the future of communication closer to businesses. The work you‘ll do You engage with our customers to understand their needs and create exceptional solutions In close collaboration with our AI team, you independently plan, program, and operate software You test new functionalities and ensure the quality assurance of the platform The qualifications you need You have professional experience in software development You have strong knowledge and experience with Angular, Node.js, Docker, and MongoDB You think solution-oriented and approach problems analytically and systematically You enjoy working in an agile team and can communicate effectively with people from various professions (both technical and non-technical) As a nice-to-have, we would appreciate experience with cloud platforms (AWS, Azure, etc.) and DevOps topics (Kubernetes, CI/CD) You have an independent working style You are fluent in both German and English, both written and spoken What we can offer you As an innovative company with a clear vision, we actively contribute to the digitization and transformation of the communication landscape by developing new ideas and creative solutions while breaking away from outdated structures Flexible, family-friendly working hours and option to work from home Short decision paths, the opportunity to get involved, take over responsibility and use new technologies Spacious office at the Europahafen: workplace with water view! Company fitness program, BusinessBike and access to company boat Coverage of costs for e-learning courses as desired Regular exchange: we visit and organize internal and public (AI) events Exciting, international clients from a wide range of industries Fair, appropriate salary and employee participation program 30 days of vacation and the possibility of part-time work Top hardware, height-adjustable desks and multiple monitors at every workstation We support the compatibility of work, family and private life and are \"Certified Family Friendly\" Find more English Speaking Jobs in Germany on Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/nfon/software-engineer-all-genders-munich-81075",
+    "remote": true,
+    "tags": [
+      "Remote",
+      "Software Development",
+      "professional / experienced"
+    ],
+    "source": "Arbeitnow",
+    "_matched_skills": [
+      "node.js",
+      "mongodb"
+    ],
+    "score": 38
+  },
+  {
+    "title": "API Developer - Cloud Solution Developer",
+    "company": "NN Group",
+    "location": "España",
+    "description": "NN Digital Hub is a subsidiary company of NN Group located in Madrid, Spain. We deliver IT services and solutions for the different international Business Units. API Developer - Cloud Solution Developer As a Cloud Solution developer you are the responsible of develop solution of backend and process under Azure PaaS, following the guidelines of de NN Architecture. Also you must to help in the innovation and designing of the new solution for the company base on of the portfolio service of Azure, …",
+    "url": "https://www.adzuna.es/details/5880752216?utm_medium=api&utm_source=22a75935",
+    "remote": false,
+    "tags": [
+      "Trabajos en informática"
+    ],
+    "source": "Adzuna (ES)",
+    "_matched_skills": [],
+    "score": 35
+  },
+  {
+    "title": "Developer Advocate",
+    "company": "Jobgether",
+    "location": "España",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Developer Advocate based in Spain. The Developer Advocate will connect with developers through technical expertise, community engagement, and practical education. This role combines hands-on knowledge of web technologies and APIs with public speaking, content creation, and relationship building. You will represent developer needs across conferences, meetups, webinars…",
+    "url": "https://www.adzuna.es/details/5880757542?utm_medium=api&utm_source=22a75935",
+    "remote": false,
+    "tags": [
+      "Trabajos en informática"
+    ],
+    "source": "Adzuna (ES)",
+    "_matched_skills": [],
+    "score": 35
+  },
+  {
+    "title": "Azure Developer",
+    "company": "NN Group",
+    "location": "España",
+    "description": "NN Digital Hub is a subsidiary company of NN Group located in Madrid, Spain. We deliver IT services and solutions for the different international Business Units. Azure Developer As a Cloud Solution developer you are the responsible of develop solution of backend and process under Azure PaaS, following the guidelines of de NN Architecture . Also you must to help in the innovation and designing of the new solution for the company base on of the portfolio service of Azure, using the last version o…",
+    "url": "https://www.adzuna.es/details/5711228833?utm_medium=api&utm_source=22a75935",
+    "remote": false,
+    "tags": [
+      "Trabajos en informática"
+    ],
+    "source": "Adzuna (ES)",
+    "_matched_skills": [],
+    "score": 35
+  },
+  {
+    "title": "Backend developer",
+    "company": "Talent-R",
+    "location": "España",
+    "description": "ABOUT US My client is a specialized in pioneering advancements in AI, 3D AI, and Physical AI, pushing the boundaries of what's possible in technology. Our team of experts is dedicated to developing innovative solutions that not only meet the needs of today but also anticipate the challenges of tomorrow. With a strong focus on artificial intelligence, we are at the forefront of creating intelligent systems that blend seamlessly into both digital and physical environments. Our expertise extends b…",
+    "url": "https://www.adzuna.es/details/5154352106?utm_medium=api&utm_source=22a75935",
+    "remote": false,
+    "tags": [
+      "Trabajos en informática"
+    ],
+    "source": "Adzuna (ES)",
+    "_matched_skills": [],
+    "score": 35
+  },
+  {
+    "title": ".Net Developer",
+    "company": "SlashMobility",
+    "location": "España",
+    "description": "SlashMobility ABOUT US: We were born in 2010 in Barcelona, ​​the world capital of mobility and innovation. We are a Mobile Corporate Solutions company, whose mission is focused on accelerating the technological digitization of society through Mobile 360º services. During these years we have become a benchmark company in the market through software development, training and recruitment of digital talent. Currently our 70 employees have developed 1,000 Mobile Solutions for 150 clients. Our Talent…",
+    "url": "https://www.adzuna.es/details/4883612828?utm_medium=api&utm_source=22a75935",
+    "remote": false,
+    "tags": [
+      "Trabajos en informática"
+    ],
+    "source": "Adzuna (ES)",
+    "_matched_skills": [],
+    "score": 35
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "dentsu",
+    "location": "España",
+    "description": "Job Description: ¡Hola, somos Merkle! Una compañía especializada en Customer Experience Management, que forma parte del grupo global de comunicación dentsu . Ayudamos a empresas IBEX35, grandes anunciantes y compañías Fortune 500 a desarrollar experiencias de clientes únicas y personales a través de los datos, la tecnología y la creatividad. Poseemos capacidades únicas en Customer Experience, Data Management e Intelligence Analytics. Al tiempo que incorporamos la visión estratégica a nuestro al…",
+    "url": "https://www.adzuna.es/details/5767308942?utm_medium=api&utm_source=22a75935",
+    "remote": false,
+    "tags": [
+      "Trabajos en informática"
+    ],
+    "source": "Adzuna (ES)",
+    "_matched_skills": [],
+    "score": 35
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Bjak",
+    "location": "España",
+    "description": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia. Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission…",
+    "url": "https://www.adzuna.es/details/5803982514?utm_medium=api&utm_source=22a75935",
+    "remote": false,
+    "tags": [
+      "Trabajos en informática"
+    ],
+    "source": "Adzuna (ES)",
+    "_matched_skills": [],
+    "score": 35
+  },
+  {
+    "title": "Java Developer",
+    "company": "Marfeel",
+    "location": "España",
+    "description": "Who we are: Marfeel is a publishing intelligence platform trusted by over 5,000 publishers worldwide: including Business Insider, Le Figaro, El País and McClatchy. We help publishers turn data into action: understanding what content is working right now, what has performed over time, and what to do next. Our platform gives editorial, SEO, audience, and revenue teams a unified view of their business, spanning real-time dashboards and deep historical analysis, all in one place. Our international …",
+    "url": "https://www.adzuna.es/details/5767317736?utm_medium=api&utm_source=22a75935",
+    "remote": false,
+    "tags": [
+      "Trabajos en informática"
+    ],
+    "source": "Adzuna (ES)",
+    "_matched_skills": [
+      "java",
+      "seo"
+    ],
+    "score": 28
+  }
+]

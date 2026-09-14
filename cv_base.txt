@@ -1,0 +1,44 @@
+Ronald Viñuela Cueto
+Estudiante de Ingeniería Informática
+
+Contacto: +34 651 46 81 02 | ronaldvinuela@gmail.com | Santa Cruz de Tenerife | github.com/RCod33
+
+IDIOMAS
+Español — nativo
+Inglés — B2
+
+HABILIDADES TÉCNICAS
+Programación: C++, Java, JavaScript, Python, HTML, CSS, jQuery, React, Bootstrap, Tailwind, Node, Express
+Bases de datos: MongoDB
+Control de versiones: Git, GitHub
+Algoritmos y estructuras de datos: implementación y análisis de algoritmos avanzados
+IA: ChatGPT, Claude, DeepSeek, Gemini y otras herramientas de IA para programación y productividad
+
+OTROS DATOS DE INTERÉS
+Creatividad, resolución de problemas, liderazgo, trabajo en equipo, disponibilidad horaria y geográfica
+
+EXPERIENCIA
+
+Herramienta propia de búsqueda de empleo automatizada (2026 — Actualidad)
+- Desarrollo en Python de un pipeline que consulta varias APIs REST de empleo (Adzuna, Arbeitnow, Remotive, The Muse) en paralelo con concurrent.futures, normaliza los datos a un esquema común y genera informes en Markdown/CSV.
+- Sistema de scoring y filtrado por relevancia (stack técnico, ubicación, idioma, nivel de experiencia) implementado con procesamiento de texto y expresiones regulares.
+- Integración con la API de Gemini para generar resúmenes de CV adaptados automáticamente a cada oferta.
+
+Desarrollador Web Freelance (2024 — Actualidad)
+- ramosmudanzas.es — sitio web corporativo para una empresa de transportes y mudanzas: desarrollado con Vite + Tailwind, desplegado en Vercel, con configuración DNS y auditoría SEO (schema LocalBusiness, Open Graph, sitemap).
+- csmmath.club — plataforma web de contenido matemático, diseñada y construida de forma independiente.
+
+Concursante de Programación Competitiva (Mar. 2022 — Feb. 2024)
+- Medalla de bronce en dos ocasiones en la Olimpiada Cubana de Informática (OCI).
+- 12ª posición en el ICPC Caribbean Qualifier.
+- Medalla de oro en la Copa Regional 2023 y 2023-2024.
+- Medalla de plata en la Copa Nacional de Cuba 2023-2024.
+
+FORMACIÓN
+
+Grado en Ingeniería Informática — UNED (Desde 2025, en curso)
+
+Diseño de páginas web y creación de videojuegos (166h) — Cruz Roja Española (Sep. — Nov. 2024)
+
+Formación autodidacta (Actualidad)
+Programación, desarrollo web e inteligencia artificial
