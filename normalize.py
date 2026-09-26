@@ -78,6 +78,26 @@ def normalize_adzuna(job, country=""):
         "source": f"Adzuna ({country.upper()})" if country else "Adzuna",
     }
 
+def normalize_himalayas(job):
+    locations = job.get("locationRestrictions", []) or []
+
+    # Himalayas puede devolver restricciones como strings
+    location_str = ", ".join(
+        loc if isinstance(loc, str) else str(loc)
+        for loc in locations
+    )
+
+    return {
+        "title": job.get("title", ""),
+        "company": job.get("companyName", ""),
+        "location": location_str,
+        "description": clean_text(job.get("description", "")),
+        "url": job.get("applicationLink", ""),
+        "remote": bool(job.get("isRemote", True)),
+        "tags": job.get("seniority", []) or [],
+        "source": "Himalayas",
+    }
+
 
 def normalize_all(raw_by_source):
     """
@@ -87,11 +107,35 @@ def normalize_all(raw_by_source):
         "remotive": [job, job, ...],
         "themuse": [job, job, ...],
         "adzuna": [(job, country), (job, country), ...],
+        "himalayas": [job, job, ...],
     }
     """
+
     normalized = []
-    normalized += [normalize_arbeitnow(j) for j in raw_by_source.get("arbeitnow", [])]
-    normalized += [normalize_remotive(j) for j in raw_by_source.get("remotive", [])]
-    normalized += [normalize_themuse(j) for j in raw_by_source.get("themuse", [])]
-    normalized += [normalize_adzuna(j, c) for j, c in raw_by_source.get("adzuna", [])]
+
+    normalized += [
+        normalize_arbeitnow(j)
+        for j in raw_by_source.get("arbeitnow", [])
+    ]
+
+    normalized += [
+        normalize_remotive(j)
+        for j in raw_by_source.get("remotive", [])
+    ]
+
+    normalized += [
+        normalize_themuse(j)
+        for j in raw_by_source.get("themuse", [])
+    ]
+
+    normalized += [
+        normalize_adzuna(j, c)
+        for j, c in raw_by_source.get("adzuna", [])
+    ]
+
+    normalized += [
+        normalize_himalayas(j)
+        for j in raw_by_source.get("himalayas", [])
+    ]
+
     return normalized

@@ -8,11 +8,13 @@ Español — nativo
 Inglés — B2
 
 HABILIDADES TÉCNICAS
-Programación: C++, Java, JavaScript, Python, HTML, CSS, jQuery, React, Bootstrap, Tailwind, Node, Express
-Bases de datos: MongoDB
+Programación: C++, Java, JavaScript, TypeScript (TS), Python, HTML, CSS, jQuery, React, Bootstrap, Tailwind, Node, Express
+Bases de datos: MongoDB, SQL
+Arquitectura y patrones: **Model-View-Controller (MVC)**, Programación Orientada a Objetos (POO)
 Control de versiones: Git, GitHub
 Algoritmos y estructuras de datos: implementación y análisis de algoritmos avanzados
 IA: ChatGPT, Claude, DeepSeek, Gemini y otras herramientas de IA para programación y productividad
+
 
 OTROS DATOS DE INTERÉS
 Creatividad, resolución de problemas, liderazgo, trabajo en equipo, disponibilidad horaria y geográfica

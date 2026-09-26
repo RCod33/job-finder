@@ -1,5 +1,92 @@
 [
   {
+    "title": "Junior Java Developer",
+    "company": "Accedia",
+    "location": "",
+    "description": "We are looking for a Java software developer who is eager to learn, thrives in a collaborative environment, and is motivated to grow and share knowledge. What to expect: Work in a supportive environment for international clients Diversity in terms of project domain and tech stack, covering the entire software development cycle (developing new and supporting existing features, troubleshooting issues, participating in the testing process, preparing documentation, etc.) Work closely with developers of various seniority, analyze technical requirements, suggest architecture and system design solutions, estimate effort and plan tasks Actively communicate tasks, requirements, issues and open questions with your team and the client Learn new technologies, participate in various knowledge-sharing initiatives (e.g. delivering internal trainings) and take professional certifications Requirements The perfect candidate meets the following: Solid knowledge in OOP, algorithms, data structures & design patterns Application development skills and knowledge of Java Experience in web development with HTML, CSS, JavaScript Database modeling and SQL skills Fluency in English Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/accedia/jobs/junior-java-developer",
+    "remote": true,
+    "tags": [
+      "Entry-level"
+    ],
+    "source": "Himalayas",
+    "_matched_skills": [
+      "java",
+      "javascript",
+      "html",
+      "css",
+      "sql",
+      "oop",
+      "algorithms",
+      "data structures"
+    ],
+    "score": 62
+  },
+  {
+    "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+    "company": "Canonical",
+    "location": "",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring 2025 and 2026 Graduate Software Engineers into engineering teams around the world. As a global platform company we offer a wide range of software engineering challenges, in both open source products and commercial business systems. We have teams that work in a variety of languages, typically Python, Golang, Rust, C/C++, JavaScript and of course... Bash. We work from the very lowest levels of the Linux system - BIOS and boot loaders, firmware, kernel and drivers, all the way up to desktop applications and containers. We work on tiny devices like the Raspberry Pi and new RISC-V boards, all the way up to supercomputers, clouds and Kubernetes clusters. We work on compilers and toolchains, and we work on security, cryptography, performance and documentation. Some of our teams focus on packaging thousands of pieces of software, others focus on deep contributions to a single body of code. If you are excited about the potential that open source has for humanity and the enterprise, you have outstanding results in your academic career, and you are excited to contribute to the open source stack, this is the best way to apply to Canonical . We will work with you to identify teams and projects that would be interesting and a good fit for your skills and motivations. The process is highly competitive, it will require effort and excellence to succeed if you apply here. Most of our engineering teams work from home. We try to align a single team in a single time zone - EMEA (Europe, Middle East and Africa), APAC (Asia Pacific and Indian Ocean), and AMER (North, South and Central Americas). Even though you work from home, we try to ensure you always have colleagues alongside to coach and mentor you, and for the companionship of shared problem solving and pair programming. Larger projects have multiple teams and might span the globe. We work with the open source community and specialize in building teams that work well in the 'fishbowl' of open source engineering. This is full time work, five days a week, often solving hard problems with significant responsibility. We don't generally work weekends and nights and we do enjoy good holidays but we also expect productive and intense engagement Monday to Friday. We bring all our engineering teams together in person twice a year for a deep 'sprint' with other teams to stimulate discussion and enable a wide range of career development paths. This is a fantastic way to demonstrate and develop your skill in software, learn about a wide range of technologies, make a meaningful impact to open source, and see some very interesting new cities that you might never otherwise get to visit. If you find the open source stack amazing, and you have been a consistent high-performing student in your school and university, then this will be a challenging and exciting start to your career. Location: This is a Globally remote role. The role entails Shaping the roadmap for your product at global sprints every six months Focusing on design and user experience, even for developer tooling and command line apps Writing high quality, resilient and performant code, potentially serving millions of demanding daily users Working towards mastery of key programming languages and Linux system knowledge Engaging with users and the open source community through code reviews and issue trackers Responding to customer issues as a priority, develop an understanding of enterprise requirements Developing skills and awareness of security in software design and implementation What we are looking for in you Exceptional academic track record from both high school and university Undergraduate degree in Computer Science, Business Informatics, Mathematics or another STEM discipline with programming courses Confidence to get started and deliver high quality code in one of Python, Rust, C/C++, Golang, JavaScript or Java Experience with Ubuntu or another Linux distribution Track record of going above-and-beyond expectations to achieve outstanding results Result-oriented and organized, with the drive to meet commitments Personal projects in technology and software engineering beyond the curriculum Professional written and spoken English Excellent interpersonal skills, curiosity, flexibility, and accountability Personal responsibility and accountability Thoughtfulness, self-awareness and the ability to reflect and develop Ability to travel internationally twice a year for company events up to two weeks long Nice-to-have skills Upstream open source contributions Packaging and Linux distribution contributions - Debian, Fedora, Arch, Nix or another Leadership and organization skills Presentation and writing skills Business and commercial interests What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Team Member Assistance Program & Wellness Platform Opportunity to travel to new locations to meet colleagues Priority Pass and travel upgrades for long-haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/canonical/jobs/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-9826178339",
+    "remote": true,
+    "tags": [
+      "Entry-level"
+    ],
+    "source": "Himalayas",
+    "_matched_skills": [
+      "c++",
+      "java",
+      "javascript",
+      "python",
+      "competitive programming"
+    ],
+    "score": 60
+  },
+  {
+    "title": "Back-End Developer",
+    "company": "Talent Sam",
+    "location": "",
+    "description": "We are looking for a skilled and motivated Back-End Developer to join our growing engineering team. In this role, you will be responsible for designing, developing, and maintaining scalable server-side applications, APIs, and databases that power high-performance web applications. The ideal candidate has strong experience with back-end technologies, database management, and cloud-based architectures. You will collaborate with front-end developers, product managers, and other engineers to build secure, reliable, and efficient solutions while following software development best practices. If you are passionate about building scalable systems and solving complex technical challenges, we'd love to hear from you. Requirements Experience as a Back-End Developer, Software Engineer, or a similar role. Excellent verbal and written communication skills in English. Strong proficiency in one or more back-end programming languages such as Node.js, Python, Java, C#, PHP, Go, or Ruby. Experience designing and developing RESTful APIs and integrating third-party services. Strong knowledge of SQL and/or NoSQL databases such as PostgreSQL, MySQL, MongoDB, SQL Server, or similar. Experience with Git, GitHub, and Agile development methodologies. Familiarity with cloud platforms such as AWS, Azure, or Google Cloud. Understanding of authentication, authorization, security best practices, and API performance optimization. Experience with Docker, Kubernetes, CI/CD pipelines, or other DevOps tools is a plus. Strong analytical, troubleshooting, and problem-solving skills. Ability to work independently and collaboratively in a remote environment. By applying to this position, we'll create your Simera Professional Key (SPK) — a unique key that helps you connect with employers, stand out, and secure the right match. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/talent-sam/jobs/back-end-developer-7915206276",
+    "remote": true,
+    "tags": [
+      "Entry-level"
+    ],
+    "source": "Himalayas",
+    "_matched_skills": [
+      "java",
+      "python",
+      "node.js",
+      "mongodb",
+      "sql",
+      "git",
+      "github"
+    ],
+    "score": 58
+  },
+  {
+    "title": "Junior Frontend Engineer - Remote",
+    "company": "Pixibo",
+    "location": "",
+    "description": "We're looking for a junior developer with around 1+ years of experience, enthusiastic about building frontend websites, html widgets and APIs to support a fast-moving team for consumer-facing products. In this role, you will have an opportunity to work on exciting product(s) where speed of delivery is essential for success. The main tools you'll work with centre around the TypeScript/Node/React ecosystem and AWS Cloud Platform. What you'll need: Basic understanding of Web development stacks: HTML, CSS, JS, React (or React Native), flux / redux, REST API, Heroku, Git, OAuth. Basic knowledge of Android Natives or iOS (optional) Good to have: AWS Cloud Platform. Excellent written and oral communication skills are required. Ability to work effectively with customers and co-workers. Degree or equivalent in experience. Why Pixibo ? Interesting, challenging work + a friendly, inclusive culture A generous vacation policy Light-filled, dog-friendly and human-friendly office Health benefits Regular team-building events Excited yet? Here's more about us … visit our website www.wearepixibo.com Who we are: Pixibo has established a category leadership position here in Asia with large prestigious clients across South East Asia and also in Europe. We work with Zalora in Singapore, FashionValet in Malaysia, MAP in Indonesia, Shinsegae in South Korea to name a few. Our flagship product, Find Your Fit, is an intelligent size and fit advisor that transforms the conventional brand size chart into real-time, actionable, size advice personalised for every shopper, for every SKU. Pixibo helps leading online fashion retailers to substantially increase their Conversion Rates, increase Average Order Values and start them on a journey to reducing their return rates. We are also rolling out an in-store solution that provides a contactless way for shoppers to find the right size without using the fitting room, given the shopper concerns in a post-Covid world. Our team is a quirky and diverse crew that has one thing in common: our love for challenges. Every day, we work across desks, departments and even oceans to reach our goals, and delight our customers. If you're passionate about helping everyone see what matters, you're just our type. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/pixibo/jobs/junior-frontend-engineer-remote-6296108737",
+    "remote": true,
+    "tags": [
+      "Entry-level"
+    ],
+    "source": "Himalayas",
+    "_matched_skills": [
+      "typescript",
+      "html",
+      "css",
+      "react",
+      "node",
+      "git",
+      "rest api"
+    ],
+    "score": 58
+  },
+  {
     "title": "Java Developer",
     "company": "Worldhire",
     "location": "España",
@@ -14,6 +101,205 @@
       "java"
     ],
     "score": 54
+  },
+  {
+    "title": "Open Source Contributor (GitHub)",
+    "company": "micro1",
+    "location": "",
+    "description": "Pay: $100–$150/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if needed We are looking for highly skilled Open-Source Software Engineers to contribute to an AI training project involving software development, repository exploration, debugging, system architecture, and code evaluation. The work involves creating, solving, reviewing, and validating challenging software-engineering tasks across front-end and back-end systems and helping with translating full coding builds from one particular language into another. We are particularly interested in engineers who own or maintain open-source repositories or have made meaningful contributions to established projects. Contributions should demonstrate real engineering ability, not only documentation updates, dependency bumps, formatting changes, or minor typo corrections. Candidates should be prepared to discuss specific repositories, pull requests, issues, and code they personally authored. What You’ll Work On Explore and understand unfamiliar software repositories. Implement, modify, and debug front-end and back-end components. Trace data and execution across interfaces, services, libraries, APIs, databases, and external dependencies. Reproduce software issues and identify their underlying causes. Implement solutions that fit an existing project’s architecture and contribution standards. Write unit, integration, regression, and end-to-end tests. Review AI-generated patches for correctness, completeness, security, and maintainability. Required Qualifications A public or otherwise verifiable GitHub profile . Meaningful ownership of or contributions to one or more open-source repositories. Strong software-engineering experience across front-end, back-end, full-stack, systems, developer tooling, infrastructure, or another substantial technical area. Experience with multiple programming languages. Ability to understand and modify unfamiliar codebases. Relevant languages may include TypeScript, JavaScript, Python, Java, Go, Rust, C++, C#, Ruby, PHP , or other languages used in substantial open-source projects. Process Apply to the role and complete the screening questions. Complete an AI interview of approximately 30 minutes. Complete the hiring manager review. Compensation Structure Compensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow. Minimum submission requirements apply. Experts must submit a minimum number of tasks per week. Start Timeline & Availability We typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first tasks within 24–48 hours of completing onboarding. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/micro1/jobs/open-source-contributor-github",
+    "remote": true,
+    "tags": [
+      "Entry-level"
+    ],
+    "source": "Himalayas",
+    "_matched_skills": [
+      "c++",
+      "java",
+      "javascript",
+      "typescript",
+      "python",
+      "github"
+    ],
+    "score": 54
+  },
+  {
+    "title": "Junior Software Engineer (QA & Automation)",
+    "company": "Ngo Consulting Partners",
+    "location": "",
+    "description": "Description This role is ideal for an early-career engineer excited to work on AI and data-driven products. You’ll help ensure the accuracy, consistency, and reliability of our systems while learning from senior engineers. As part of a small, collaborative team, you’ll test, validate, and automate workflows that make complex processes simple, repeatable, and reliable. Flexible: 20–35+ hours/week Core Responsibilities Manual QA & Validation Test software pipelines and AI model outputs for accuracy, consistency, and stability. Develop and maintain automated validation scripts and regression test suites. Maintain and curate test datasets to ensure broad coverage of normal, edge, and failure scenarios. Assist in defining and documenting test plans, acceptance criteria, and QA results with product and engineering teams. Automated Testing Write automated unit and integration tests using frameworks such as PyTest or Jest. Integrate automated tests into CI/CD pipelines (e.g., GitHub Actions, Jenkins) for repeatable QA workflows. Monitor test results and troubleshoot failures with guidance from senior engineers. Configuration & Environment Management Apply and verify code and pipeline configurations following defined processes. Maintain configuration files, environment variables, and schema updates across test environments. Support setup of data mappings, schema definitions, and parameter configurations for new customers with guidance from senior engineers. Validate new customer configurations and sample outputs for accuracy and completeness. Lightweight Development Implement minor bug fixes and small code enhancements as part of QA feedback. Contribute to code reviews and assist in refactoring or documentation. Collaborate on scripting and automation to streamline validation, deployment, or monitoring steps. Participate in team QA reviews and retrospectives to improve processes and automation coverage. Required Skills & Experience 1–3 years of professional experience in QA automation, software testing, or software engineering. Working knowledge of Python or similar scripting languages. Familiarity with unit testing frameworks (e.g., PyTest, Unittest, Mocha/Jest). Basic understanding of CI/CD tools (e.g., GitHub Actions, Jenkins, CircleCI). Experience with Git and modern source control workflows. Comfortable working with JSON schemas, API validation, and data-driven testing. Comfortable leveraging AI tools to augment and optimize day-to-day tasks. Strong attention to detail and process adherence. Comfortable working in small, fast-moving technical teams. Ideal Candidate Traits Hands-on and detail-oriented, with the ability to thrive in a fast-moving startup environment. A “get it done” attitude and proven track record of taking ownership over workstreams. Comfortable managing priorities across multiple operational responsibilities. Collaborative and able to communicate effectively with both technical and non-technical stakeholders. Nice to Haves Exposure to AI, ML, or data processing pipelines. Experience validating AI or ML model outputs (data extraction, classification, etc.). Experience with Docker or cloud-based environments. Familiarity with schema validation libraries and data transformation workflows. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/ngo-consulting-partners/jobs/junior-software-engineer-qa-automation",
+    "remote": true,
+    "tags": [
+      "Entry-level"
+    ],
+    "source": "Himalayas",
+    "_matched_skills": [
+      "python",
+      "git",
+      "github",
+      "json"
+    ],
+    "score": 46
+  },
+  {
+    "title": "Graduate Programme 2027: Software Engineer (Python), 100% remoto",
+    "company": "Revolut",
+    "location": "",
+    "description": "Revolut tiene disponible su Graduate Programme 2027: Software Engineer (Python), 100% remoto",
+    "url": "https://juniorjobs.short.gy/ewWEU8",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [
+      "python"
+    ],
+    "score": 44
+  },
+  {
+    "title": "Graduate Programme 2027: Software Engineer (Java), 100% en remoto",
+    "company": "Revolut",
+    "location": "",
+    "description": "Revolut tiene disponible su Graduate Programme 2027: Software Engineer (Java), 100% en remoto",
+    "url": "https://juniorjobs.short.gy/eRDooi",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [
+      "java"
+    ],
+    "score": 44
+  },
+  {
+    "title": "GitHub Contributor",
+    "company": "micro1",
+    "location": "",
+    "description": "Role Title: GitHub Contributor Role Type : Contractor (~15 hrs a week) Location: Remote micro1 is engaging expert Senior Software Engineers to support a customer’s innovative project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. As an expert you will be creating Reinforcement Learning Environments which test and AI model's ability to solve complex software engineering problems related to fixing code, creating features, refactoring code and optimizing performance. You will be tasked with creating a reproducible environment and golden reference solution for the problem. Applicants must have clear open source contributions and profiles to showcase it like GitHub or GitLab. (Preferably with C++, Python, JAVA, GoLang, Typescript, or Rust) Scope of Work Contribute expert-level code samples, debugging strategies, and development insights in Python3, Java, Rust, Go, C++, or TypeScript. Analyze, troubleshoot, and resolve complex software defects and performance bottlenecks in diverse codebases. Implement robust new features, ensuring scalability, maintainability, and adherence to software best practices. Refactor and optimize legacy code to improve clarity, efficiency, and long-term reliability. Document technical reasoning, solution approaches, and code decisions to enhance AI training data quality. Review and validate peer-contributed code and technical submissions for accuracy and clarity. Preferred Qualifications Significant hands-on expertise in at least one of the following: Python3, Java, Rust, Go, C++, or TypeScript. Deep understanding of algorithms, data structures, and software engineering principles. Proven ability to debug complex systems, resolve bugs, and deliver effective optimizations. Experience with large codebase refactoring and legacy system modernization. Track record of delivering high-impact features from conception through delivery within cross-functional projects. Strong documentation and communication skills to articulate technical concepts clearly. Interest in or curiosity about AI and its technical challenges (previous AI experience not required). Process: Apply to the role, filling out the screening questions Complete AI interview (aprox. 30 minutes) Technical Assessment (Tentative) Hiring Manager review Compensation Structure Compensation is output-based; experts are paid per task that meets the project specifications. The time required to complete work may vary depending on the expert’s experience and workflow. Minimum submission requirements apply. Experts must submit a minimum of tasks per week. Start Timeline & Availability We typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24–48 hours of completing onboarding. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/micro1/jobs/github-contributor-106728860",
+    "remote": true,
+    "tags": [
+      "Entry-level"
+    ],
+    "source": "Himalayas",
+    "_matched_skills": [
+      "c++",
+      "java",
+      "typescript",
+      "python",
+      "github",
+      "algorithms",
+      "data structures"
+    ],
+    "score": 43
+  },
+  {
+    "title": "Software Development Engineers in Test (Python)",
+    "company": "Xm",
+    "location": "Remote",
+    "description": "The Role: Our team is expanding and we are hiring several high caliber SDET (Software Development Engineer in Test) - Python to join our fast-growing team. You will work with world class specialists in a friendly, supportive and open-minded environment on challenging goals that will help you to grow professionally and achieve new technical levels. This role will focus on improving and monitoring product quality via test automation framework development and test coverage extension for functional and performance suits. You will work with the most valuable part of the product - a Forex brokerage core. If you enjoy working with pure API, Python, cutting-edge technologies, Kafka and AWS, this role is for you. The main responsibilities of the position include: Work in close cooperation with the development team to enhance software delivery and quality throughout the entire software development cycle Understand and translate high level business requirements to technical requirements Advise on efficient performance testing strategies for enhancing delivery and quality throughout the full software development cycle Develop formal test procedures and test plans from internal product design documentation as well as from external certification requirements Design, develop and modify functional and performance automation tests Design and implement test automation framework, required libraries and auto-tests Develop emulators for mobile testing Build CI/CD pipelines and integrate automation scripts into CI tools Manage any issues that may arise and drive resolutions throughout the testing process Share technical expertise with the rest of the QA team Actively participate in the Software Development Life Cycle and Software Testing Life Cycle Main requirements: BSc/MSc in Computer Science, Software Engineering or similar Minimum 2 years of comprehensive experience in quality assurance Minimum 2 years of practical experience in Python development Strong hands-on experience in designing and developing automated tests using Python Strong technical background Experience in testing REST API Confident knowledge of Git Experience in agile software development methodologies and testing procedures Strong interpersonal skills Very good written and verbal skills in English The following will be considered an advantage: Experience with testing framework development Experience with asynchronous and multithreading programming Experience in testing web sockets Experience with Docker Experience with Grafana Experience in performance testing Experience in the Finance/Forex domain Benefit from: Attractive remuneration package plus performance related reward Intellectually stimulating work environment Continuous personal development and international training opportunities The Hiring Experience: What Awaits You Let’s Connect – Intro Chat with Talent Acquisition Deep Dive – First Interview with Your Future Team Final Connection – Final Interview All applications will be treated with strict confidentiality! Find more English Speaking Jobs in Switzerland on Arbeitnow",
+    "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-software-development-engineers-in-test-python-101930",
+    "remote": true,
+    "tags": [
+      "Quality Assurance",
+      "Full-time"
+    ],
+    "source": "Arbeitnow",
+    "_matched_skills": [
+      "python",
+      "git",
+      "rest api"
+    ],
+    "score": 42
+  },
+  {
+    "title": "Frontend Web Application Developer",
+    "company": "KoboToolbox",
+    "location": "USA, Canada, Argentina, Mexico, Peru",
+    "description": "Location: Remote Availability: 35-40 hours per week Working hours: US East business hours Reporting to: Lead developer KoboToolbox has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, for a commitment of at least 1 year. As a member of our team, you will share in the challenge and excitement of writing code used by over 32,000 organizations around the world. These organizations create data-driven change through the collection and analysis of more than 20 million surveys per month. Only candidates who already have experience working on large web applications will be considered. Beyond technical acumen, we are seeking a team member who demonstrates curiosity, initiative, and a cooperative approach to problem solving and decision-making. If you're passionate about leveraging technology to make a positive impact, we want to hear from you! Responsibilities Searching and reading an extensive, long-lived code base to understand existing behavior and conventions. Recognizing when existing conventions may no longer be the best approach and suggesting improvements aligned with contemporary best practices. Writing robust, concise, and reusable code with accompanying tests and documentation. Reviewing other developers' code and providing constructive feedback. Incorporating feedback from code reviews to improve your skills and align with team standards. Using AI-assisted development tools effectively while maintaining responsibility for code quality and correctness. Efficiently investigating bug reports from the support team, creating well-scoped fixes or actionable plans for resolution. Scoping, prioritizing, estimating, and organizing work into manageably sized tasks. Attending regular video-conference check-ins with other members of the technical team. Communicating with the public in conjunction with our support staff or directly through forums, issue trackers, etc. Contributing to discussions about design and architecture collaboratively with the larger team. Performing other related duties as directed by the lead developer. Requirements Required Qualifications Professional experience writing, deploying, and maintaining client-side code for real-world, API-driven single-page applications. Proficiency with TypeScript, React, and related technologies, including styling, state management, and efficient data exchange over HTTP. Unflinching ability to work with legacy technologies such as Backbone and CoffeeScript. Recent experience giving and receiving code reviews. Ability to independently set up and troubleshoot a local development environment, knowing when to ask for help on genuine roadblocks. Interest in data collection (surveying), particularly in humanitarian emergencies and other challenging contexts, and a desire to improve our platform for our users. Proficiency with spoken and written English. Fluency with Git. Overlap with working hours in the Eastern time zone. Average availability of at least 30 hours per week, preferably 35 hours or more. Preferred Qualifications Experience with the following is preferred but not required to apply: Using Docker and Docker Compose in a development environment. Programming in Python, ideally with Django (and particularly Django REST Framework). Building user-facing LLM integrations. Surveying with XLSForm, ODK XForm, and OpenRosa. Integrating with Stripe for payment processing. An added note on qualifications... We know that people from underrepresented groups including women, people of color, LGBTQ+ individuals, people with disabilities, and others are less likely to apply for a role if they don't meet every qualification listed. We're more interested in your potential and growth mindset than a perfect checklist match. If this role excites you and you meet many, but not all, of the qualifications, we'd still love to hear from you. Equal Opportunity Employer Kobo is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Benefits Genuine Impact: Contribute directly to projects that impact millions of people around the world globally, working alongside the largest international humanitarian organizations as well as thousands of national and small community based partners in 200 countries. Meaningful Work Environment: Join a team that believes work should be meaningful as well as fun, tackling global challenges through innovative data collection and management tools with a proven impact for lasting change. Diverse Team: Be part of an amazing, progressive, and globally diverse team that values diversity, equity, and inclusion across all spectrums. Flexible Work Culture: Enjoy mutual flexibility supported by a culture that prioritizes work-life balance. Professional Development: Benefit from generous professional development options. Full Time Employee Benefits (U.S. candidates only) : Health & Wellness : 5 medical insurance options, dental, and vision (up to 80% premium covered), plus life insurance and Long Term Disability. Financial Security : 401(k) retirement plan with 100% match up to 2%. Work-Life Balance : 20 days paid time off, 12 floating holidays, unlimited sick days, and paid parental leave. *Please note, if based in the US or Canada this is a full time employee position. In other locations full time employment or contractor positions are options depending on individual circumstances.",
+    "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+    "remote": true,
+    "tags": [
+      "api",
+      "django",
+      "docker",
+      "frontend",
+      "git",
+      "python",
+      "react",
+      "security",
+      "video",
+      "AI/ML",
+      "documentation",
+      "Typescript ",
+      "web applications",
+      "backbone",
+      "diversity",
+      "REST",
+      "insurance"
+    ],
+    "source": "Remotive",
+    "_matched_skills": [
+      "typescript",
+      "python",
+      "react"
+    ],
+    "score": 42
+  },
+  {
+    "title": "Software Engineer Intern",
+    "company": "Ritual",
+    "location": "",
+    "description": "About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies. About the role Prototype rapidly, iterate and execute quickly based on technical guidance Work at the frontier of modern cryptographic schemes and open-source AI Release your work into the open-source world and build alongside the Ritual community About you Intellectually curious around intersections of interdisciplinary fields ranging from game theory to cryptography to machine learning Quick iteration and development cycles on writing and/or proof-of-concept Extras Experience in cryptography, machine learning software projects, ideally in open-source land Why join us Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure hardened by cryptographic schemes We work completely in open-source and ship weekly Maximize your knowledge gradient around fields that typically would not intersect We’re open to exceptional people of all backgrounds for research (e.g. high school, undergraduate and postgraduate degree). Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/ritual-net/jobs/software-engineer-intern-9031169445",
+    "remote": true,
+    "tags": [
+      "Entry-level"
+    ],
+    "source": "Himalayas",
+    "_matched_skills": [],
+    "score": 40
+  },
+  {
+    "title": "Graduate Programme 2027: Software Engineer (Android), 100% en remoto",
+    "company": "Revolut",
+    "location": "",
+    "description": "Revolut tiene disponible su Graduate Programme 2027: Software Engineer (Android), 100% en remoto",
+    "url": "https://juniorjobs.short.gy/QUgezX",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 40
+  },
+  {
+    "title": "Graduate Programme 2027: Software Engineer (Frontend), 100% en remoto",
+    "company": "Revolut",
+    "location": "",
+    "description": "Revolut tiene disponible su Graduate Programme 2027: Software Engineer (Frontend), 100% en remoto",
+    "url": "https://juniorjobs.short.gy/9T2hqi",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 40
+  },
+  {
+    "title": "Graduate Programme 2027: Software Engineer (iOS), 100% en remoto",
+    "company": "Revolut",
+    "location": "",
+    "description": "Revolut tiene disponible su Graduate Programme 2027: Software Engineer (iOS), 100% en remoto",
+    "url": "https://juniorjobs.short.gy/VSBdef",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 40
+  },
+  {
+    "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu, 100% en remoto",
+    "company": "Canonical",
+    "location": "",
+    "description": "Canonical necesita a un Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/STpDlL",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 40
   },
   {
     "title": "Java developer",
@@ -32,21 +318,76 @@
     "score": 39
   },
   {
-    "title": "Software Engineer (all genders)",
-    "company": "NFON",
-    "location": "Munich",
-    "description": "Your new role With a passion for Conversational AI, you develop a scalable multi-tenant platform that opens access to cutting-edge LLM technologies and brings the future of communication closer to businesses. The work you‘ll do You engage with our customers to understand their needs and create exceptional solutions In close collaboration with our AI team, you independently plan, program, and operate software You test new functionalities and ensure the quality assurance of the platform The qualifications you need You have professional experience in software development You have strong knowledge and experience with Angular, Node.js, Docker, and MongoDB You think solution-oriented and approach problems analytically and systematically You enjoy working in an agile team and can communicate effectively with people from various professions (both technical and non-technical) As a nice-to-have, we would appreciate experience with cloud platforms (AWS, Azure, etc.) and DevOps topics (Kubernetes, CI/CD) You have an independent working style You are fluent in both German and English, both written and spoken What we can offer you As an innovative company with a clear vision, we actively contribute to the digitization and transformation of the communication landscape by developing new ideas and creative solutions while breaking away from outdated structures Flexible, family-friendly working hours and option to work from home Short decision paths, the opportunity to get involved, take over responsibility and use new technologies Spacious office at the Europahafen: workplace with water view! Company fitness program, BusinessBike and access to company boat Coverage of costs for e-learning courses as desired Regular exchange: we visit and organize internal and public (AI) events Exciting, international clients from a wide range of industries Fair, appropriate salary and employee participation program 30 days of vacation and the possibility of part-time work Top hardware, height-adjustable desks and multiple monitors at every workstation We support the compatibility of work, family and private life and are \"Certified Family Friendly\" Find more English Speaking Jobs in Germany on Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/nfon/software-engineer-all-genders-munich-81075",
+    "title": "Software Engineer (Computer Use & Integrations) (m/w/d)",
+    "company": "Recare Deutschland GmbH",
+    "location": "Remote job",
+    "description": "Software Engineer – Backend (Computer Use & Integrations) (m/w/d) Remote job About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for aftercare providers, relieve healthcare professionals, and refocus attention on patients. Today, we already connect two-thirds of all German hospitals with over 650 rehabilitation clinics and 25,000 nursing and homecare providers. With currently around 100 employees, we continue to grow – and we are looking for people with character who want to help us improve the healthcare system and solve administrative complexity across care journeys in Europe. What to expect as our Software Engineer – Backend (Computer Use & Integrations) (m/w/d): Purposeful work – your role will have a positive impact on patients, their families, and healthcare professionals. Company culture – we believe in flat hierarchies that promote high performance and strong team dynamics. We foster an environment characterized by mutual respect, loyalty, and recognition. Together, we strive for our goals – and expect the same from you. Flexibility – want to pick up your child from daycare? Like to exercise during lunch? We'll support you. We are a remote-friendly company offering flexible working hours. Workations are also possible by arrangement. Edenred card – which you can use according to your needs. Extra vacation day – so you can celebrate your birthday with your loved ones, you'll have the day off. In this role, you can make an impact and grow with us as Software Engineer You'll help build Recare's Operator, our agent that gets AI-generated clinical output into hospital systems by operating their existing software the way a person would, no bespoke interface required. It's the sharp end of our integration strategy: a Windows desktop application that automates UI interactions with hospital systems, running on doctors' devices and often inside RDP or Citrix environments. The first version is already live – you'll help expand its capabilities and make it reliable in production. You build and improve integrations between hospital systems and Recare products. You implement and harden computer-use automation flows so they work reliably in production, including edge cases, recovery, and safety rails. You partner with clinical domain experts to turn ambiguous workflows into shippable plans and robust implementations that solve real customers' needs. You contribute across the stack as needed, including our Go-based gateway. You invest in observability foundations (logs, metrics, traces) so we can trust the system in production. How we work: AI-native – our engineers reach for frontier coding agents every day to move fast across the whole stack, and we want strong, opinionated views on how to wield them well. Frontier models – we build on the best models available and adopt new capabilities as they ship, not a release later. Human-in-the-loop by default – this is healthcare: AI proposes, people stay in control, and we design the approval and validation loops that make that real. Unglamorous foundations – engineers get the time to build the eval harnesses, guardrails, and observability that make AI trustworthy in production, not just the feature on top. Ship and observe – always deployable, telemetry-driven, fix in the open. Here's how we picture you as our Software Engineer You're a builder with a hacker mindset: you default to building rather than waiting, and you're solution-oriented rather than problem-oriented. You have professional backend experience in Go, Python, or TypeScript, and you can point to production software you shipped and owned. You're comfortable working on integration-heavy systems: APIs, workflows, data models, auth, and real-world edge cases. You're pragmatic about reliability: you care about monitoring, debugging, test coverage, and making systems operable. You're excited to use AI coding agents daily and have opinions on how to use them effectively. You're ambitious but frustration-tolerant. Hospital IT is complicated and progress is hard-won; you stay relentless, get your hands dirty, and iterate until it works. You communicate confidently in English and collaborate well across Product, Engineering, and Operations. Nice to have: German language skills. Experience with Electron or TypeScript on the desktop side. Experience with healthcare IT systems (HIS, KIS, PVS, EMR) and interoperability standards such as HL7 v2 or FHIR. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-342698",
     "remote": true,
     "tags": [
+      "Engineering",
       "Remote",
-      "Software Development",
-      "professional / experienced"
+      "Mid",
+      "fulltime permanent"
     ],
     "source": "Arbeitnow",
     "_matched_skills": [
-      "node.js",
-      "mongodb"
+      "typescript",
+      "python"
+    ],
+    "score": 38
+  },
+  {
+    "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
+    "company": "Camunda",
+    "location": "Remote",
+    "description": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences. Fully remote and global, we are in the middle of something bigger: transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team. Named GP Bullhound’s Top 100 Next Unicorn list, 2025 Great Place to Work certified. Visionary in 2025 Gartner® Magic Quadrant™ for Business Orchestration and Automation Technologies. ranked 3rd in Flexa's 2026 Most Flexible Companies , We’re growing fast and looking for top talent to join our team. If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading. About the role: We're hiring for Self-Managed Experience (SMX) — the team responsible for making Camunda 8 deployable in a self-service way for customers who run their own infrastructure. SMX covers two areas of work: installation artifacts (Helm chart, Docker Compose, C8Run) and reference architectures & cloud infrastructure (AWS, GCP, Azure). This role sits primarily on the installation artifacts side — building, maintaining, and releasing the artifacts that ship Camunda 8 to every self-managed customer. You'll be fully embedded in that area day-to-day, but you'll work alongside the reference-architecture side of the team regularly, and SMX is actively working toward enabling every engineer to review and contribute across both stacks over time. SMX is also shifting from a purely artifact- and ops-focused team toward one in which engineers bring customer judgment and product sense alongside technical depth. That means engaging directly with the teams closest to customers — Support, Consulting, Presales — and using that signal to help shape what we prioritize, not just executing a fully-specced ticket. You'll find plenty of room to leave your own footprint: deployment automation, software and infrastructure testing, multi-region setups, and developer experience are all live areas of investment as the team matures from \"basic install\" toward full-lifecycle ownership (upgrades, backup/restore, disaster recovery). Curious about the kind of challenges you'll work on at Camunda? Watch this quick 30-minute talk from our engineers to learn more about the new Camunda Exporter and how we’re solving complex problems at scale What You’ll Be Doing: Build, maintain, and release C8 distribution artifacts for self-managed customers — Helm Charts (Kubernetes), C8Run, and Docker Compose — along with their documentation. Improve the reliability and usability of deployment artifacts across the full customer lifecycle: installation, upgrades, and day-2 operations, not just initial deployment. Engage directly with internal customer-facing teams (Support, Consulting, Presales) to understand real deployment problems, and use that signal to help shape what gets prioritized — not just how it gets built. Collaborate with Development Teams, Product Management, QA, and Documentation to ship integrated, tested, and documented releases. Take part in the team's shared medic rotation and resolve engineering-level support cases, feeding learnings back into development. Contribute to the shared tooling (review, deployment, and test tooling) that SMX is building so other Camunda teams can adopt it — this is one of the team's current investment areas. What success looks like (first ~3 months): Taken on your first medic rotation slot and support tickets to understand the stack, customer challenges, and deployment environments. Improved onboarding or documentation, turning your own ramp-up experience into concrete improvements. Contributed to artifact fixes, CI/CD enhancements, or test automation that strengthens release quality. Deliver structural improvement initiatives — a feature request, or a test/release improvement. Built working relationships with engineering, QA, and product peers, and started building context on the reference-architecture side of the team. Started forming your own view of a customer pain point from firsthand signal (support tickets, consulting feedback), not just from a ticket description. What You Bring: Ability and/or willingness to use our product, with genuine curiosity about the customer problem behind a ticket — comfortable asking \"should we build this\" as well as \"how do we build this.\" Strong expertise in building, operating, and maintaining Helm Charts; deploying applications on Kubernetes; implementing CI/CD pipelines with GitHub Actions; and managing infrastructure as code (e.g., Terraform). Ability to create clear technical documentation and communicate effectively across teams. A pragmatic and autonomous approach to programming and problem-solving. You thrive as a manager of one — you build it, you own it — and take pride in delivering maintainable, operable software. Nice-to-haves: Experience running and operating on-prem/self-hosted software on Docker. Familiarity with Prometheus, Grafana, OpenTelemetry, or similar observability tools. Working knowledge of the Go programming language. Exposure to cloud infrastructure/IaC (Terraform, Crossplane) — useful as SMX moves toward shared review capability across installation artifacts and reference architectures. This role is an existing vacancy #LI-SK1 #LI-Remote #USEAST What We Have to Offer: Compensation We offer competitive, fair, and transparent compensation. Salary ranges are location-based, with Standard and Major markets (global tech hubs) reflecting local competition. The Annual Total Target Cash (base salary + 100% variable target, where applicable) shown below spans from the minimum in a Standard market to the maximum in a Major market. Final offers depend on skills , experience , and location , and we typically hire in the first half of the range to allow room for growth: United States: $119,900.00 to $193,200.00 United Kingdom: £75,300.00 to £123,800.00 Singapore: S$148,900.00 to S$223,300.00 Canada: C$127,300.00 to C$209,300.00 If you’re based elsewhere, you’ll be hired via Remote.com (our global employer partner), and your Talent Acquisition Partner will provide a personalized Total Rewards Calculator after your first interview. Equity: We also offer equity (where applicable) through our Virtual Stock Option Plan (VSOP) . Benefits & Perks We invest in your wellbeing, growth, and ability to connect, along with perks that support you no matter where you’re based. Our benefits are globally designed and locally delivered where applicable. Remote & Flexible: Work from anywhere with the setup that suits you, home office budget, co-working space support, and flexible time off to recharge when you need it. In Person Connection: We invest in meaningful face time through our Annual Kickoff (Vienna in 2025, Madrid in 2026!), team offsites, and Camundi Connection Budgets , including contributing to meetups while travelling,, and local gatherings with fellow Camundi. Health & Wellbeing: Access locally tailored healthcare, Modern Health for global mental wellbeing, and our Live Well Lifestyle Spending Account (LSA), a flexible, global benefit that puts you in control of your whole life, not just work, from: staying active, to caring for family, exploring personal passions, meaningful experiences, and investing in your financial wellbeing. The Live Well program launches in 2026 and scales to €1,000 annually from 2027 . Financial Security: Retirement and pension plans (often with company contributions), plus life and disability insurance where relevant. Professional Growth: Up to $/€/£1,000 per year for self-driven learning: courses, certifications, books, you decide! AI in our hiring process : Camunda may use AI tools to aid the screening of applications and during the interview process. You can learn more here ”Everyone is welcome at Camunda” — it’s a celebrated component of our culture. We strive to create an inclusive environment that empowers our people. At Camunda, we honour diverse cultures and backgrounds and are proud to be an equal opportunity employer. All qualified applicants will receive consideration without regard to gender, race, ethnicity, religion, belief, sexual orientation, age, disability or any other protected characteristics under applicable law. We are looking forward to your application! Come join us and be part of Camunda’s incredible journey: Make an impact at a pivotal moment in our story! Please be aware that scammers may impersonate Camunda by reaching out about job opportunities. Camunda will only contact candidates from an email address ending in @ camunda.com or @ talent.camunda.com . We will never ask candidates for bank account details, checks, payment, or other sensitive financial information as part of our hiring process. If you receive a suspicious message, please do not respond, click any links, or share personal information. Note for recruiting and placement agencies: Camunda does not accept unsolicited agency resumes. Please do not forward resumes to our careers site, employees, or any other Camunda contact unless we have specifically engaged your firm for that search. Camunda will not pay fees related to unsolicited resumes. Find Jobs in Germany on Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-423924",
+    "remote": true,
+    "tags": [
+      "Products",
+      "Full Time"
+    ],
+    "source": "Arbeitnow",
+    "_matched_skills": [
+      "github",
+      "competitive programming"
+    ],
+    "score": 38
+  },
+  {
+    "title": "Junior Front-End Developer",
+    "company": "Accedia",
+    "location": "",
+    "description": "We are looking for a Junior Front-end software developer who is eager to learn, thrives in a collaborative environment, and is motivated to grow and share knowledge. What to expect: Join a team of smart engineers working on a project for an international client Work closely with an experienced software developer who’ll be guiding and mentoring you Contribute to the team goals and working on tasks covering the entire software development lifecycle (develop new and supporting existing features, troubleshoot issues, develop unit tests, prepare documentation, etc.) Actively communicate tasks, requirements, issues and open questions with your mentor, the team and the client Learn new technologies, attending technical and soft-skills trainings and taking professional certifications Requirements The perfect candidate meets the following: Practical experience in general web development - HTML5, CSS3, React/Angular/Vue Solid understanding of JavaScript and particularly ES6(ES2015) features Knowledge of AJAX, Promises and async programming patterns Good understanding of web services Fluency in English Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/accedia/jobs/junior-front-end-developer",
+    "remote": true,
+    "tags": [
+      "Entry-level"
+    ],
+    "source": "Himalayas",
+    "_matched_skills": [
+      "javascript",
+      "react"
+    ],
+    "score": 38
+  },
+  {
+    "title": "Backend Engineer focused on AI Agents, Memory & Context",
+    "company": "Vantum",
+    "location": "",
+    "description": "About Vantum Vantum helps fractional operators win new clients while delivering for the clients they already have. When you’re managing several engagements, client work can consume the week and leave little time to grow your own business. We’re building Vantum to help operators make progress on both. At the center is Ask Vantum , an AI chat that understands their goals, connects to their work, and helps them decide what to do next. It needs to remember what matters and help users take action without making them explain themselves again. We’re a team of five, working toward product-market fit. We’re looking for an engineer to build and improve the prompts, memory, context, and backend systems behind that experience. You’ll work directly with the founders and help shape a core part of the product. What you’ll own Your primary focus is Ask Vantum’s chat harness : the code and instructions that connect the model to conversation history, memory, app data, and tools. System prompts and model behavior. Write, test, and refine the instructions that govern how Vantum responds, uses context, asks questions, and calls tools. Resolve conflicting instructions and make behavior consistent across different requests. Context management. Decide what the model needs each turn, what to retrieve, and what to leave out. Preserve important information as conversations grow. Memory. Separate lasting preferences from temporary instructions. Handle corrections, outdated information, and deletions so the assistant remembers accurately. Queries and retrieval. Pull relevant tasks, goals, calendar entries, notes, and documents. Choose the right retrieval approach for the question. Tool execution. Build actions that validate inputs, enforce permissions, and handle failures without creating duplicate work or claiming something happened when it didn’t. Reliability and evaluation. Trace bad responses, reproduce failures, and verify improvements. Monitor response quality, latency, and cost while keeping client information properly scoped. Our stack: TypeScript, Next.js App Router, PostgreSQL, Prisma, and OpenRouter. We have an existing harness you’ll improve and extend. What we’re looking for You have strong backend fundamentals and are good at getting useful, reliable behavior from language models. You should be able to: Write precise prompts. You’ve built system prompts and can explain how instructions, examples, tool descriptions, and output schemas affect behavior. Debug beyond the prompt. You can tell whether a bad response comes from unclear instructions, missing context, poor retrieval, a tool failure, or application code. Test your changes. You compare behavior across representative cases, track prompt versions, and check that fixing one problem hasn’t introduced another. Build solid backend systems. You write maintainable TypeScript, validated APIs, scoped database queries, and safe persistence changes. Show your work. You can walk through something you built, explain your decisions, and describe a failure you investigated. Communicate clearly in English. Precise writing matters in system prompts, technical discussions, and PRs. Take ownership. You clarify ambiguous work, flag blockers early, and carry a change through to verification. Experience with chat systems, agent harnesses, memory, or retrieval is a strong advantage. A serious side project counts. Demonstrated ability matters more than years of experience, degrees, or employer names. We want someone who follows developments in AI engineering and tests ideas critically. Tell us what you tried, what improved, and what you dropped because it wasn’t worth the complexity. Why join Ask Vantum is central to the product. Your work will directly affect whether users feel understood, trust the assistant, and return to it. You’ll work closely with the founders, see feedback from real users, and have a say in how we solve problems. As you demonstrate your judgment and impact, there’s room to take on broader technical ownership. We’re looking for curiosity, ambition, and follow-through. Someone who notices when the experience is wrong, wants to understand why, and cares enough to improve it. A founder reviews architecture and sensitive production changes. You’ll have support while being expected to take responsibility for your work. Compensation and working arrangements $1,200–$2,000 USD per month , depending on demonstrated ability. Full-time, remote position. At least four hours of weekday overlap with Bangkok (GMT+7). Potential for equity as the role develops. How we hire 1. Screening call. We discuss your experience, work you’ve shipped, and what you’re looking for. 2. Repo and prep conversation. We share a repo and a problem to investigate. You’ll have the opportunity to ask questions, understand the existing system, and clarify the constraints. 3. Solution presentation. You present your diagnosis and proposed solution, including your reasoning, tradeoffs, and how you would verify the result. AI tools are welcome. You should be able to explain your approach and adapt it as we discuss the problem. Apply Share something you personally built: a GitHub repo, PR, demo, or anonymized walkthrough. Tell us what you owned and describe one chat, prompting, or backend failure you encountered: what went wrong, what you changed, and how you knew it worked. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/vantum/jobs/backend-engineer-chat-context",
+    "remote": true,
+    "tags": [
+      "Mid-level",
+      "Entry-level",
+      "Senior"
+    ],
+    "source": "Himalayas",
+    "_matched_skills": [
+      "typescript",
+      "github"
     ],
     "score": 38
   },
@@ -56,20 +397,6 @@
     "location": "España",
     "description": "NN Digital Hub is a subsidiary company of NN Group located in Madrid, Spain. We deliver IT services and solutions for the different international Business Units. API Developer - Cloud Solution Developer As a Cloud Solution developer you are the responsible of develop solution of backend and process under Azure PaaS, following the guidelines of de NN Architecture. Also you must to help in the innovation and designing of the new solution for the company base on of the portfolio service of Azure, …",
     "url": "https://www.adzuna.es/details/5880752216?utm_medium=api&utm_source=22a75935",
-    "remote": false,
-    "tags": [
-      "Trabajos en informática"
-    ],
-    "source": "Adzuna (ES)",
-    "_matched_skills": [],
-    "score": 35
-  },
-  {
-    "title": "Developer Advocate",
-    "company": "Jobgether",
-    "location": "España",
-    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Developer Advocate based in Spain. The Developer Advocate will connect with developers through technical expertise, community engagement, and practical education. This role combines hands-on knowledge of web technologies and APIs with public speaking, content creation, and relationship building. You will represent developer needs across conferences, meetups, webinars…",
-    "url": "https://www.adzuna.es/details/5880757542?utm_medium=api&utm_source=22a75935",
     "remote": false,
     "tags": [
       "Trabajos en informática"
@@ -121,20 +448,6 @@
     "score": 35
   },
   {
-    "title": "Frontend Developer",
-    "company": "dentsu",
-    "location": "España",
-    "description": "Job Description: ¡Hola, somos Merkle! Una compañía especializada en Customer Experience Management, que forma parte del grupo global de comunicación dentsu . Ayudamos a empresas IBEX35, grandes anunciantes y compañías Fortune 500 a desarrollar experiencias de clientes únicas y personales a través de los datos, la tecnología y la creatividad. Poseemos capacidades únicas en Customer Experience, Data Management e Intelligence Analytics. Al tiempo que incorporamos la visión estratégica a nuestro al…",
-    "url": "https://www.adzuna.es/details/5767308942?utm_medium=api&utm_source=22a75935",
-    "remote": false,
-    "tags": [
-      "Trabajos en informática"
-    ],
-    "source": "Adzuna (ES)",
-    "_matched_skills": [],
-    "score": 35
-  },
-  {
     "title": "Backend Developer",
     "company": "Bjak",
     "location": "España",
@@ -147,6 +460,334 @@
     "source": "Adzuna (ES)",
     "_matched_skills": [],
     "score": 35
+  },
+  {
+    "title": "Backend Developer",
+    "company": "airenetworks.es",
+    "location": "España",
+    "description": "Grupo Aire somos uno de los Grupos de empresas de telecomunicaciones más importantes de España-Portugal y estamos en pleno crecimiento tanto a nivel nacional como internacional. Somos el operador mayorista de telecomunicaciones en España con más presencia, ofreciendo soluciones de: conectividad, telefonía fija y móvil, contenido audiovisual, cloud y data center. Estamos en plena expansión y queremos reforzar nuestros equipos. Buscamos incorporar en nuestra plantilla un/a especialista en backend…",
+    "url": "https://www.adzuna.es/details/5780611871?utm_medium=api&utm_source=22a75935",
+    "remote": false,
+    "tags": [
+      "Trabajos en informática"
+    ],
+    "source": "Adzuna (ES)",
+    "_matched_skills": [],
+    "score": 35
+  },
+  {
+    "title": "Junior Data Engineer",
+    "company": "Accedia",
+    "location": "",
+    "description": "We are looking for a Junior Data Engineer who is eager to learn, thrives in a collaborative environment, and is motivated to grow and share knowledge. What to expect: Work in a supportive environment for international clients Work closely with an experienced software developer who’ll be guiding and mentoring you Contribute to the team goals and work on tasks covering the design and implementation of data processing systems, data pipelines and data visualization solutions Actively communicate tasks, requirements, issues and open questions with your mentor, the team and the client Learn new technologies, attend technical and soft-skills trainings and take professional certifications Develop complex queries, writing DB scripts and stored procedures Develop new client specific reports and modifying existing ones, both pro-actively, in order to improve operational efficiencies, and in response to customer requests Troubleshoot and identify issues with existing reports and data by analyzing SQL and reports Requirements The perfect candidate meets the following: Solid knowledge in data modeling, data processing and data warehousing principles Database development skills and knowledge in SQL Experience with a one or more of database servers (Microsoft SQL Server, Oracle Database, MySQL, etc.) Familiarity with data visualization tools Fluency in English Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/accedia/jobs/junior-data-engineer",
+    "remote": true,
+    "tags": [
+      "Entry-level"
+    ],
+    "source": "Himalayas",
+    "_matched_skills": [
+      "sql"
+    ],
+    "score": 34
+  },
+  {
+    "title": "Internship Programme 2027: Software Engineer (Java), 100% en remoto",
+    "company": "Revolut",
+    "location": "",
+    "description": "Revolut tiene disponible su Internship Programme 2027: Software Engineer (Java), 100% en remoto",
+    "url": "https://juniorjobs.short.gy/InPY5b",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [
+      "java"
+    ],
+    "score": 34
+  },
+  {
+    "title": "Internship Programme 2027: Software Engineer (Python), 100% en remoto",
+    "company": "Revolut",
+    "location": "",
+    "description": "Revolut tiene disponible su Internship Programme 2027: Software Engineer (Python), 100% en remoto",
+    "url": "https://juniorjobs.short.gy/Upm3DB",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [
+      "python"
+    ],
+    "score": 34
+  },
+  {
+    "title": "DEV ZIRA Talent Academy 2026",
+    "company": "ZIRA",
+    "location": "",
+    "description": "Join ZIRA Talent Academy DEV track vol. 18—your ticket to the tech world! Ready to launch your tech career? Then you're in the perfect place at the perfect time. Welcome to the ZIRA Talent Academy, your ticket to the exciting world of technology. Join the next, eighteenth generation of DEV ZTA talents, kicking off on October 12, 2026 . The application call will remain open until October 02 at midnight , so make sure to keep an eye on the deadline. What is the DEV ZTA? The DEV ZTA is a unique 9-week internship program specifically designed for ICT students like you, whether you're an undergrad or pursuing a graduate degree. During this experience, you'll dig into a variety of technologies, gaining hands-on coding experience and a solid grasp of Agile methodology principles. With the daily standups and 1-week sprints, we're all about fast-tracking your career journey. The DEV ZTA experience: ✅ 9 weeks of online certified trainingYou will dive deep into CSS, Java, Angular, Maven, Spring, ActiveMQ, developing a diverse skill set that will prepare you for real-world projects in the industry. ✅ Full-time mentorship supportOur dedicated mentors will guide you every step of the way, making sure you receive the guidance and constructive feedback needed to thrive. ✅ Simulation of a real project environmentYou will gain hands-on experience in a simulated project environment, allowing you to showcase skills and adapt to real-world challenges. Requirements 1️⃣ Final-year students and recent graduates: We are looking for talented individuals who are either in their final year of IT studies or have recently graduated from university programs. 2️⃣ Strong work ethic: We highly value individuals with a strong work ethic, those who are committed to going the extra mile to achieve excellence. 3️⃣ Technical aptitude: To succeed in our program, candidates must demonstrate proficiency in coding and technology or show a keen interest in developing these skills. 4️⃣ Soft skills: We prioritize effective communication, teamwork, problem-solving, and adaptability in candidates. We believe in cultivating a collaborative and supportive environment. 5️⃣ Enthusiasm and curiosity: We are seeking interns who are passionate about learning, continuously seek new challenges, and are eager to contribute their ideas. 6️⃣ Self-motivation: Successful candidates should be self-driven, proactive, and capable of taking ownership of their tasks and projects. 7️⃣ Attention to detail: In the tech industry, a meticulous eye for detail is essential to ensure high-quality work and minimize errors. 8️⃣ Continuous learning: We value individuals who embrace a growth mindset, showing a willingness to continuously expand their knowledge and skills. Discover the ZIRA Talent Academy, where we effortlessly blend technical know-how, personal growth, and real-world experience into a comprehensive and fulfilling learning journey. Get set to make the most of your skills and talents in the exciting, always-moving tech world. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/zira/jobs/dev-zira-talent-academy-2026",
+    "remote": true,
+    "tags": [
+      "Entry-level"
+    ],
+    "source": "Himalayas",
+    "_matched_skills": [
+      "java",
+      "css"
+    ],
+    "score": 33
+  },
+  {
+    "title": "Forward Deployed Engineer",
+    "company": "Hexa",
+    "location": "Remote",
+    "description": "About Waniwani Waniwani builds the infrastructure that distributes insurance and banking products through AI assistants. We raised an $8M seed led by Seedcamp and work with large European banks and insurers. Each enterprise deal has to be scoped, architected, and deployed into a regulated environment. This role owns the layer between a signed deal and a live deployment. The role Customer workshops, discovery, and requirements (35%). Run technical discovery and workshops with each client, and translate their needs into clear, buildable product requirements for our sales, ops, and engineering teams. Flag what we need to build to support a given setup, such as client self-hosting. Solution architecture and documentation (35%). Design the end-to-end MCP flow and integration architecture for each client, including hosted versus on-premise scenarios, and produce the technical documentation enterprise clients require (BPI France alone is roughly 50 docs). Procurement, security, and delivery oversight (30%). Use our existing compliance library (SOC 2 program, DPAs, prior questionnaire answers) to complete security questionnaires, handle security committees and data-residency questions, and drive procurement to completion. Oversee the MCP deployment itself, which our freelancer network implements. Across all three, you build the reusable kit that makes this repeatable: scoping templates, architecture patterns, and a procurement answer library. Objectives 90 days: own scoping and procurement response for active deals, with the reusable kit used on at least one live deal end to end. 6 months: run the full signed-to-live pipeline, including architecture decisions and procurement ownership, without founders in the critical path. 12 months: a repeatable delivery process with patterns reused across clients, and a case for the first hire under this role. Requirements You are technically credible: you read code, reason fluently about integrations and the MCP and agent stack, and can scope and oversee a deployment. This is not a hands-on production-coding role; implementation is handled by our freelancer network. You are comfortable leading technical conversations with enterprise clients. You can drive a security questionnaire or procurement process to completion from existing documentation. You have worked in or near regulated industries (finance, insurance) and understand compliance and data residency requirements. You work well in ambiguity across sales, ops, and engineering, and ramp into new domains quickly. You have an interest in the MCP and agent stack. You are open to traveling from time to time across Europe and the US to meet clients. What this role is not A backend engineering role. You will work with clients most of the week. A pure pre-sales role. You own architecture, requirements, and delivery oversight, not only the pitch. A slideware role. You need real technical depth, even though you are not writing production code day to day. Practicalities Remote-first, based in Europe. Expect travel roughly once a month, primarily Paris, London, and Madrid, with US travel around the 6-month mark. Being able to come to Paris occasionally is a plus but not required. First hire in this function, working directly with the founders and the engineering team. Process Intro call with our talent partner. 30-minute conversation with Max, our CTO. Work sample based on a real client scenario (live session): scope the flow, draft the architecture, and handle a mock procurement Q&A. Discussions with Robin, our CEO, Luiza, and members of the tech team. Reference checks. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/hexa/remote-forward-deployed-engineer-64304",
+    "remote": true,
+    "tags": [
+      "Waniwani",
+      "Full Time"
+    ],
+    "source": "Arbeitnow",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "PowerBuilder Developer",
+    "company": "Jobgether",
+    "location": "France",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a PowerBuilder Developer based in France. This is a remote contract opportunity for an experienced PowerBuilder Developer supporting the development, enhancement, and ongoing maintenance of enterprise applications. You will work across the full software development lifecycle, from requirements analysis and architecture through development, testing, deployment, and supp…",
+    "url": "https://www.adzuna.fr/details/5898496187?utm_medium=api&utm_source=22a75935",
+    "remote": true,
+    "tags": [
+      "Emplois Informatique"
+    ],
+    "source": "Adzuna (FR)",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "IT Business Developer",
+    "company": "Aizen Recruitment",
+    "location": "Paris, Ile-de-France",
+    "description": "About AIZEN RECRUITMENT Aizen Recruitment, international staffing and headhunting company, is looking for one of its client, IT software provider, a IT Business developer Location: France (Remote) Contract: permanent Benefits: according to profile Job description As a Business Developer, you will be responsible for reaching out B2B customers within your given territory to offer our client's products and services, handling incoming and outgoing calls, addressing customer queries or complaints, a…",
+    "url": "https://www.adzuna.fr/details/5727219884?utm_medium=api&utm_source=22a75935",
+    "remote": true,
+    "tags": [
+      "Emplois Informatique"
+    ],
+    "source": "Adzuna (FR)",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Workday Developer - REMOTE",
+    "company": "Software Guidance & Assistance, Inc. ",
+    "location": "Dearborn Heights, Wayne County",
+    "description": "Job Description Software Guidance & Assistance, Inc., (SGA), is searching for a Workday Developer for a CONTRACT assignment with one of our premier Regulatory clients. This position is fully remote. Seeking a Workday engineer to strengthen our HCM platform work. Although this is a contractor position, the expectations mirror a senior engineer: deep hands-on experience, sound technical judgment, and the ability to own work end to end with minimal direction. The ideal person pairs deep Workday ha…",
+    "url": "https://www.adzuna.com/land/ad/5897398332?se=UrKoTvK58RGGQ9u1mQKVdw&utm_medium=api&utm_source=22a75935&v=067A445C0AFD3586D9C7D1C8D222410F96AFB840",
+    "remote": true,
+    "tags": [
+      "IT Jobs"
+    ],
+    "source": "Adzuna (US)",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Fullstack Software Engineer (x/f/m) - Core Billing Platform, 100% en remoto",
+    "company": "Alan",
+    "location": "",
+    "description": "Alan busca a un Fullstack Software Engineer (x/f/m) - Core Billing Platform, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/lphWzV",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Fullstack Software Engineer (x/f/m) - Ops AI Platform, 100% en remoto",
+    "company": "Alan",
+    "location": "",
+    "description": "Alan busca a un Fullstack Software Engineer (x/f/m) - Ops AI Platform, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/MY6IF7",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Fullstack Software Engineer (x/f/m) - Insurance Offer, 100% en remoto",
+    "company": "Alan",
+    "location": "",
+    "description": "Alan necesita incorporar a un Fullstack Software Engineer (x/f/m) - Insurance Offer, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/kTcTy3",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Fullstack Software Engineer (x/f/m) - Care Expert Copilot, 100% en remoto",
+    "company": "Alan",
+    "location": "",
+    "description": "Alan necesita incorporar a un Fullstack Software Engineer (x/f/m) - Care Expert Copilot, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/hf710t",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Fullstack Software Engineer (x/f/m) - Global Billing Platform, 100% en remoto",
+    "company": "Alan",
+    "location": "",
+    "description": "Alan necesita a un Fullstack Software Engineer (x/f/m) - Global Billing Platform, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/G5Oxcy",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Fullstack Software Engineer (x/f/m) - Global Architecture, 100% en remoto",
+    "company": "Alan",
+    "location": "",
+    "description": "Alan busca a un Fullstack Software Engineer (x/f/m) - Global Architecture, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/cskB78",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Fullstack Software Engineer (x/f/m) - Occupational Health, 100% en remoto",
+    "company": "Alan",
+    "location": "",
+    "description": "Alan busca a un Fullstack Software Engineer (x/f/m) - Occupational Health, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/RvDQCe",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Fullstack Software Engineer - Work Environment (x/f/m), 100% en remoto",
+    "company": "Alan",
+    "location": "",
+    "description": "Alan quiere contratar a un Fullstack Software Engineer - Work Environment (x/f/m), 100% en remoto",
+    "url": "https://juniorjobs.short.gy/sT4mnd",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Fullstack Software Engineer (x/f/m) - Product Platform, 100% en remoto",
+    "company": "Alan",
+    "location": "",
+    "description": "Alan quiere contratar a un Fullstack Software Engineer (x/f/m) - Product Platform, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/X8hos2",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Fullstack Software Engineer (x/f/m) - Claims Management, 100% en remoto",
+    "company": "Alan",
+    "location": "",
+    "description": "Alan quiere contratar a un Fullstack Software Engineer (x/f/m) - Claims Management, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/V8CYrI",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Fullstack Software Engineer (x/f/m) - Payroll & Benefits Platform for HR, 100% en remoto",
+    "company": "Y Alan",
+    "location": "",
+    "description": "Y Alan quiere contratar a un Fullstack Software Engineer (x/f/m) - Payroll & Benefits Platform for HR, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/c9USP9",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Elixir Software Engineer (Junior) 25-35k - Remote, 100% en remoto",
+    "company": "Bizneo",
+    "location": "",
+    "description": "Bizneo busca a un Elixir Software Engineer (Junior) 25-35k - Remote, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/zo3IE5",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Software Engineer Junior (Ruby / RoR) 25-35k - Remote, 100% en remoto",
+    "company": "Bizneo",
+    "location": "",
+    "description": "Bizneo necesita incorporar a un Software Engineer Junior (Ruby / RoR) 25-35k - Remote, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/5T9wZp",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Internship Programme 2027: Software Engineer (Android), 100% en remoto",
+    "company": "Revolut",
+    "location": "",
+    "description": "Revolut tiene disponible su Internship Programme 2027: Software Engineer (Android), 100% en remoto",
+    "url": "https://juniorjobs.short.gy/ugw3Re",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Internship Programme 2027: Software Engineer (iOS), 100% en remoto",
+    "company": "Revolut",
+    "location": "",
+    "description": "Revolut tiene disponible su Internship Programme 2027: Software Engineer (iOS), 100% en remoto",
+    "url": "https://juniorjobs.short.gy/VAgotO",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Internship Programme 2027: Software Engineer (Frontend), 100% en remoto",
+    "company": "Revolut",
+    "location": "",
+    "description": "Revolut tiene disponible su Internship Programme 2027: Software Engineer (Frontend), 100% en remoto",
+    "url": "https://juniorjobs.short.gy/IkRw05",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Junior Ubuntu Software Engineer, 100% en remoto",
+    "company": "Canonical",
+    "location": "",
+    "description": "Canonical necesita a un Junior Ubuntu Software Engineer, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/c54TFO",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
+  },
+  {
+    "title": "Junior Software Developer - Observability, 100% en remoto",
+    "company": "Canonical",
+    "location": "",
+    "description": "Canonical necesita a un Junior Software Developer - Observability, 100% en remoto",
+    "url": "https://juniorjobs.short.gy/M2K5yH",
+    "remote": true,
+    "source": "WhatsApp",
+    "_matched_skills": [],
+    "score": 30
   },
   {
     "title": "Java Developer",
@@ -164,5 +805,23 @@
       "seo"
     ],
     "score": 28
+  },
+  {
+    "title": "QA Software Test Automation Engineers (Java)",
+    "company": "Xm",
+    "location": "Remote",
+    "description": "The Role: Our team is expanding and we are hiring several high caliber QA Software Test Automation Engineers (Java) to join our fast-growing team. You will work with world class specialists in a friendly, supportive and open-minded environment on challenging goals that will help you to grow professionally and achieve new technical levels. This role will focus on improving and monitoring product quality via test automation framework development and test coverage extension for functional and performance suits. The main responsibilities of the position include: Closely collaborate with the development team to help deliver high quality software Understand and translate business requirements to technical requirements Enhance software delivery and quality throughout the entire Software Development Life Cycle Perform automated functional and performance testing Design and develop the test automation framework, implement required libraries, and conduct auto-tests Maintain CI pipelines and integrate automated scripts into CI tools Manage any issues that may arise and drive resolutions throughout the testing process Actively participate in the Software Development Life Cycle and Software Testing Life Cycle Main requirements: BSc/MSc in Computer Science Minimum 2 years’ experience in quality assurance and test automation (functional GUI and API) Practical experience in automation testing with Java (Playwright, REST Assured, or similar for mobile automation) is a must Experience in writing queries for SQL and NoSQL databases Experience in agile software development methodologies and testing procedures Strong interpersonal and organisational skills Committed to excellence, continuous improvement, and to achieving the best results Excellent written and verbal skills in English Benefit from: Attractive remuneration package Intellectually stimulating work environment Continuous personal development and international training opportunities The Hiring Experience: What Awaits You Let’s Connect – Intro Chat with Talent Acquisition Deep Dive – First Interview with Your Future Team Final Connection – Final Interview All applications will be treated with strict confidentiality! Find Jobs in Switzerland on Arbeitnow",
+    "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-466766",
+    "remote": true,
+    "tags": [
+      "Quality Assurance",
+      "Full-time"
+    ],
+    "source": "Arbeitnow",
+    "_matched_skills": [
+      "java",
+      "sql"
+    ],
+    "score": 23
   }
 ]
